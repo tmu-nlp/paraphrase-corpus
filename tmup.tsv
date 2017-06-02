@@ -1,0 +1,656 @@
+label	sentence_A_ja	sentence_B_ja	source_sentence_en
+0	なぜ あなた は 来 て い ます か ？	なぜ 来る の ？	Why are you coming ?
+1	私 は 他 の 何 か を し なけれ ば なり ませ ん 。	何 か 別 の こと を し なけれ ば なら ない 。	I have to do something else .
+1	私 の 父 は 非常 に 強い 男 でし た 。	父 は とても 強い 男 だっ た 。	My father was a very strong man .
+0	作者 として の 私 の 目標 の 一つ は 、 人間 性 の さまざま な 側面 を 探る こと です 。	著者 として の 私 の 目標 の 1 つ は 、 人間 性 の さまざま な 側面 を 探究 する こと です 。	One of my goals as an author is to explore various aspects of human nature .
+0	「 カンフーパンダ 」 は 、 批評 家 の 称賛 を 受け まし た 。	カンフーパンダ  は 批判 的 な 評価 を 受け まし た 。	Kung Fu Panda  received critical acclaim .
+1	一つ の 要因 は 、 連邦 政府 によって 開発 さ れ た 新 ガイドライン による もの です 。	1 つ の 要因 は 、 連邦 政府 が 策定 し た 新しい ガイドライン による もの です 。	One factor is due to the new guidelines developed by the federal government .
+1	一つ は 、 トレーニング 中 の 事故 で 失わ れ まし た 。	1 つ は 訓練 事故 で 失わ れ まし た 。	One was lost in a training accident .
+0	だから 、 一 人 当たり の リビング エリア の サイズ が あり ませ ん 。	1 人 あたり の リビング エリア の 大き さ も 同じ です 。	So does the size of the living area per person .
+1	17 世紀 に 新しい 教会 は 、 住民 を 犠牲 に し て 造ら れ まし た 。	17 世紀 に は 、 住民 を 犠牲 に し て 新しい 教会 が 建設 さ れ まし た 。	In the 17th century a new church was built at the expense of the inhabitants .
+1	奴隷 制度 は 19 世紀 の 前半 に 廃止 さ れ まし た 。	19 世紀 前半 に 奴隷 制度 が 廃止 さ れ まし た 。	Slavery was abolished in the first half of the 19th century .
+0	1945 年 2 月 に は ソ連 赤軍 は 、 市内 に 近づき まし た 。	1945 年 2 月 、 ソビエト 赤軍 が 町 に 近づい た 。	In February 1945 the Soviet Red Army approached the city .
+1	1961 年 から 彼 の 死 まで 、 彼 は ソビエト 連邦 共産党 中央 委員 会 の メンバー でし た 。	1961 年 から 死ぬ まで 、 彼 は ソビエト 連邦 共産党 中央 委員 会 の メンバー だっ た 。	From 1961 until his death , he was a member of the Central Committee of the Communist Party of the Soviet Union .
+1	1971 年 に 独立 し た バングラデシュ の 出現 は 、 バングラデシュ の 共産党 の 歴史 の 中 で 新しい 章 を 開き まし た 。	1971 年 に 独立 し た バングラデシュ が 出現 し た こと で 、 バングラデシュ の 共産党 史上 に 新た な 章 が 開か れ た 。	The emergence of independent Bangladesh in 1971 opened up a new chapter in the history of the Communist Party of Bangladesh .
+1	1977 年 に 彼 は ロイヤル・リヴァプール・フィルハーモニー 管弦楽 団 の アシスタント コンダクター と なり まし た 。	1977 年 、 ロイヤル ・ リバプール ・ フィル の 副 指揮 者 に 就任 。	In 1977 he became assistant conductor of the Royal Liverpool Philharmonic .
+1	1980 年 に 彼 は 上院 に 選出 さ れ まし た 。	1980 年 に 彼 は 上院 に 選出 さ れ た 。	In 1980 he was elected to the Senate .
+0	1980 年代 に は 、 教皇 ヨハネ・パウロ二世 は 二 回 都市 を 訪問 し まし た 。	1980 年代 に は 、 教皇 ヨハネ ・ パウロ 2 世 が この 都市 を 2 度 訪れ た 。	In the 1980s , Pope John Paul II visited the city twice .
+1	1985 年 に 彼女 は 第 一 子 を 出産 し まし た 。	1985 年 、 彼女 は 最初 の 子供 を 産ん だ 。	In 1985 she gave birth to their first child .
+1	1996 年 チャンピオン の デイモン・ヒル は 、 1999 年 シーズン の 終わり に フォーミュラワン から 引退 し ます 。	1996 年 チャンピオン の デイモン・ヒル は 1999 年 シーズン の 終わり に F 1 から 引退 し た 。	1996 champion Damon Hill retired from Formula One at the end of the 1999 season .
+1	2 つ の コード の 間 に は 階層 が あり ませ ん 。	2 つ の コード の 間 に 階層 は あり ませ ん 。	There is no hierarchy between the two codes .
+1	2 つ の システム 間 の 唯一 の 違い は 、 支払い の タイミング でし た 。	2 つ の システム の 唯一 の 違い は 、 支払い の タイミング でし た 。	The only difference between the two systems was the timing of the payment .
+1	両 群 間 の カウント の 精度 に 有意 差 は なかっ た です 。	2 つ の 群 の 間 で 計数 の 正確 さ に 有意 差 は なかっ た 。	There was no significant difference in accuracy of the counting between the two groups .
+1	二 人 は 1959 年 3 月 10 日 に 米国 に 戻り まし た 。	2 人 は 1959 年 3 月 10 日 に 米国 に 戻っ た 。	The two returned to the United States on March 10 , 1959 .
+1	2 〜 11 歳 の 間 の 子供 の ため の 2 プログラム 。	2 歳 から 11 歳 まで の お子様 向け の 2 つ の プログラム 。	2 program for children between 2 and 11 years old .
+1	2000 年 に 彼 は クリーブランド クリニック で 彼 の ポスト を あきらめ まし た 。	2000 年 に 彼 は クリーブランド クリニック で 彼 の ポスト を あきらめ た 。	In 2000 he gave up his post at the Cleveland Clinic .
+1	これ は 、 2001 年 以降 スタジアム で 最初 の コンサート です 。	2001 年 以来 、 スタジアム で 初めて の コンサート です 。	It is the first concert at the stadium since 2001 .
+1	2005 年 7 月 の 終わり に 、 フェルディナンド は クラブ で 3 年間 の 契約 延長 に 署名 し まし た 。	2005 年 7 月末 、 フェルディナンド は クラブ と の 3 年間 の 契約 延長 契約 を 結ん だ 。	At the end of July 2005 , Ferdinand signed a three-year contract extension with the club .
+1	2005 年 に は シニア アドバイザー として モルガン ・ スタンレー に 入社 し まし た 。	2005 年 に は 、 上級 顧問 として Morgan Stanley に 入社 し まし た 。	In 2005 he joined Morgan Stanley as a senior advisor .
+1	2008 年 フォーチュン ・ グローバル 500 に よる と 、 トヨタ は 世界 第 5 位 の 企業 です 。	2008 年 の Fortune Global 500 に よれ ば 、 トヨタ は 世界 で 5 番目 の 企業 です 。	According to the 2008 Fortune Global 500 , Toyota is the fifth largest company in the world .
+0	2013 年 に 開く こと が 期待 さ れ て い ます 。	2013 年 に 開設 予定 です 。	It is expected to open in 2013 .
+0	2016 年 シーズン に 向け て 準備 が でき て いる と 予想 さ れ ます 。	2016 年 シーズン の 準備 が 整う 予定 です 。	It is expected to be ready for the 2016 season .
+0	300 万 人 以上 の アメリカ 人 が 彼ら の 一生 の 間 に パニック 障害 を 経験 し ます 。	3 百 万 人 を 超える アメリカ 人 は 、 生涯 にわたって パニック 障害 を 経験 する 。	Over 3 million Americans experience panic disorder during their lifetime .
+1	60 カ国 の 代表 が 会議 に 招待 さ れ まし た 。	60 カ国 から の 代表 者 が 会議 に 招待 さ れ た 。	Representatives from 60 countries were invited to the conference .
+1	8 月 6 日 に 彼 は 心臓 発作 で 死亡 し まし た 。	8 月 6 日 、 彼 は 心臓 発作 で 亡くなり まし た 。	On August 6 he died of a heart attack .
+1	8 月 は 、 今年 の 最も 暖かい 月 です 。	8 月 は 今年 最も 暖かい 月 です 。	August is the warmest month of the year .
+1	ビッグ マック は 世界 的 に 知ら れ て おり 、 多く の 場合 、 アメリカ の 資本 主義 の 象徴 として 用い られ て い ます 。	Big Mac は 世界中 で 知ら れ て おり 、 しばしば アメリカ の 資本 主義 の 象徴 として 使わ れ て い ます 。	The Big Mac is known worldwide and is often used as a symbol of American capitalism .
+1	ボア テング は ベルリン で 生まれ まし た 。	Boateng は ベルリン 生まれ 。	Boateng was born in Berlin .
+1	キャロリン と ローレン は 、 2 列 目 の シート に 座っ て い まし た 。	Carolyn と Lauren は 座席 の 2 列 目 に 座っ て い た 。	Carolyn and Lauren were sitting in the second row of seats .
+1	DAP は 議会 で 最大 野党 として の 地位 を 取り戻し まし た 。	DAP は 、 議会 で 最大 の 野党 として の 地位 を 回復 し た 。	The DAP regained its position as the largest opposition party in parliament .
+1	18 の EU 加盟 国 は 、 共通 通貨 として ユーロ を 共有 し て い ます 。	EU 加盟 国 18 カ国 は 共通 通貨 として ユーロ を 共有 し て いる 。	18 EU countries share the euro as a common currency .
+1	IT 業界 は 、 インド 最大 の 民間 部門 の 雇用 者 で あり 続け て い ます 。	IT 業界 は 引き続き インド 最大 の 民間 部門 雇用 者 で ある 。	The IT industry continues to be the largest private sector employer in India .
+1	ジョン ・ ラセター と アンドリュー ・ スタントン の 両方 が エグゼクティブプロデューサー を 務め まし た 。	John Lasseter と Andrew Stanton は どちら も エグゼクティブプロデューサー として 働い て い まし た 。	John Lasseter and Andrew Stanton both served as executive producers .
+0	マイケル ・ ウォルトリップ は レース に 勝ち まし た 。	Michael Waltrip が レース で 優勝 し た 。	Michael Waltrip won the race .
+1	Murkowski は 現在 、 上院 エネルギー 天然 資源 委員 会 の 委員 長 です 。	Murkowski は 現在 、 上院 エネルギー ・ 天然 資源 委員 会 委員 長 を 務め て い ます 。	Murkowski is currently the chairman of the Senate Energy and Natural Resources Committee .
+0	クイニピアック 大学 によって 行わ れ た 研究 は 、 ニューヨーカー の 大 部分 が イニシアチブ を サポート する こと を 示し まし た 。	Quinnipiac University が 実施 し た 調査 に よる と 、 ニューヨーク 市民 の 過半数 が この イニシアティブ を 支持 し て いる こと が わかり まし た 。	Research conducted by Quinnipiac University showed that a majority of New Yorkers support the initiative .
+1	USB ポート は 、 ハードディスク または 他 の 記憶 装置 を 接続 する ため に 使用 する こと が でき ませ ん 。	USB ポート は 、 ハードディスク や その他 の ストレージ デバイス の 接続 に は 使用 でき ませ ん 。	The USB port can not be used to connect a hard disk or other storage device .
+0	次に 、 あなた と あなた の 家族 が 死ん で しまい ます 。	あなた と あなた の 家族 は 死ぬ でしょ う 。	Then you and your family will die .
+1	同じ ロジック は 、 アフガニスタン で 見る こと が でき ます 。	アフガニスタン で も 同じ 論理 が 見 られる 。	The same logic can be seen in Afghanistan .
+1	アメリカ 人 は 、 米国 の 市民 です 。	アメリカ 人 は アメリカ合衆国 の 市民 です 。	Americans are citizens of the United States of America .
+1	アリゾナ 州立 大学 は 、 この 地域 の 高等 教育 の 主要 な 機関 です 。	アリゾナ 州立 大学 は 、 この 地域 の 高等 教育 の 主要 機関 です 。	Arizona State University is the main institution of higher education in the region .
+0	ある 日 、 それ が 終了 し ます 。	ある 日 それ は 終わる でしょ う 。	One day it will end .
+0	同じ 原理 は 、 アルコール 中毒 に 適用 さ れ ます 。	アルコール 中毒 に も 同じ 原則 が 適用 さ れ ます 。	The same principle applies to alcohol intoxication .
+1	アルバム は 同年 8 月 に 完成 し まし た 。	アルバム は 同年 8 月 に 完成 し た 。	The album was completed in August of the same year .
+1	アルバム は 、 後 に ゲーム の サウンドトラック に 追加 さ れ まし た 。	アルバム は 後で ゲーム の サウンドトラック に 追加 さ れ まし た 。	The album was later added to the soundtrack of the game .
+0	アレキサンダー は また 、 ユーモア の センス を 持っ て い まし た 。	アレクサンダー に も ユーモア が あり まし た 。	Alexander also had a sense of humor .
+0	アレックス は 殺人 で 有罪 と 懲役 14 年 を 言い渡さ れ て い ます 。	アレックス は 殺人 罪 で 有罪 判決 を 受け 、 14 年 の 懲役 刑 を 宣告 さ れる 。	Alex is convicted of murder and sentenced to 14 years in prison .
+1	いくつ か の 合成 ピレスロイド は 、 神経 系 に 有毒 です 。	いくつ か の 合成 ピレスロイド は 、 神経 系 に 有毒 で ある 。	Some synthetic pyrethroids are toxic to the nervous system .
+1	イスラエル 人 は 、 午前 8 時 に 市内 に 入り まし た 。	イスラエル 人 は 午前 8 時 に 市 に 入っ た 。	The Israelis entered the city at 8:00 am .
+0	これ は 、 バージニア ビーチ で 最高 点 です 。	ヴァージニアビーチ で 最高 の ポイント です 。	It is the highest point in Virginia Beach .
+1	ビンス・ルッソ は 、 プロレス の 歴史 の 中 で 最も 物議 を 醸す 人物 の 一 人 です 。	ヴィンス・ルッソ は プロレス 界 で 最も 論争 の 的 に なっ て いる 人物 の ひとり です 。	Vince Russo is one of the most controversial figures in professional wrestling history .
+0	ウォルコット は 4 人 兄弟 の 末っ子 でし た 。	ウォルコット は 4 人 の 子供 の うち 最も 若かっ た 。	Walcott was the youngest of four children .
+0	彼 は また 、 エグゼクティブプロデューサー を 務め まし た 。	エグゼクティブプロデューサー として も 活躍 。	He also served as an executive producer .
+1	エミレーツ は また 、 FA カップ の タイトル ・ スポンサー です 。	エミレーツ は FA カップ の タイトル スポンサー で も あり ます 。	Emirates is also the title sponsor of the FA Cup .
+1	エリザベス は 69 歳 で 1603 年 に 死亡 し まし た 。	エリザベス は 1603 年 に 69 歳 で 死亡 し た 。	Elizabeth died in 1603 at the age of 69 .
+0	また 、 カカドゥ 国立 公園 で 発見 さ れ て い ます 。	カカドゥ 国立 公園 に も あり ます 。	It is also found in Kakadu National Park .
+1	カナダ の アイスホッケー チーム は 1972 年 と 1976 年 の 冬季 オリンピック に 参加 し ませ ん でし た 。	カナダ の アイスホッケー チーム は 1972 年 と 1976 年 の 冬季 オリンピック に 参加 し なかっ た 。	Canada 's ice hockey team did not participate in the 1972 and 1976 Winter Olympics .
+0	キリバス は 、 世界 の 最貧 国 の 一つ と 考え られ て い ます 。	キリバス は 、 世界 で 最も 発展 し て い ない 国 の 一つ と 考え られ て い ます 。	Kiribati is considered one of the least developed countries in the world .
+1	グリーン は 、 6 人 が 死亡 し た 虐殺 の 最年少 の 犠牲 者 でし た 。	グリーン は 6 人 を 殺し た 虐殺 の 最年少 被害 者 だっ た 。	Green was the youngest victim of the massacre , which killed six people .
+1	グルーミング は 、 家族 の 中 で 最も 重要 な 社会 的 相互 作用 の 一つ です 。	グルーミング は 、 家族 の 中 で 最も 重要 な 社会 的 交流 の 1 つ です 。	Grooming is one of the most important social interactions among family members .
+1	クレイグ は 、 ジョージ ・ W ・ ブッシュ 大統領 が 提案 し た ゲストワーカープログラム を サポート し て い ます 。	クレイグ 氏 は 、 ジョージ W ブッシュ 大統領 が 提案 し た ゲストワーカープログラム を サポート し て い ます 。	Craig supports the guest worker program proposed by President George W. Bush .
+1	ゲーム の Mac OS の バージョン は 、 1999 年 3 月 に ブリザード エンターテイメント によって リリース さ れ まし た 。	ゲーム の Mac OS バージョン は 、 1999 年 3 月 に ブリザード エンターテインメント によって リリース さ れ まし た 。	A Mac OS version of the game was released by Blizzard Entertainment in March 1999 .
+1	以下 は その 抜粋 です ：	ここ に 抜粋 が あり ます ：	Here is an excerpt :
+0	これら の 2 つ の チーム が 1999 年 に グランド ファイナル で 演奏 し ます 。	この 2 チーム は 1999 年 に グランド ファイナル で プレー し た 。	These two teams played in the Grand Final in 1999 .
+1	この アプローチ は 、 量子 カオス の 分野 において 特に 重要 です 。	この アプローチ は 、 量子 カオス の 分野 において 特に 重要 で ある 。	This approach is particularly important in the field of quantum chaos .
+1	この 画像 の 修正 版 は 、 1850 年 に アメリカ で 出版 さ れ まし た 。	この イメージ の 修正 版 は 、 1850 年 に 米国 で 出版 さ れ まし た 。	A modified version of this image was published in the United States in 1850 .
+1	この スタジアム は 南米 で 三 番目 に 大きい です 。	この スタジアム は 南米 で 3 番目 に 大きな 競技 場 です 。	This stadium is the third largest in South America .
+1	この ステージ は 一 ヶ月 か そこら 程度 持続 し ます 。	この ステージ は 約 1 カ月 ほど しか 続き ませ ん 。	This stage lasts only about a month or so .
+1	この 規則 は 、 イスラム 教徒 や 他 の 民族 グループ に は 適用 さ れ ませ ん 。	この ルール は 、 イスラム 教徒 や その他 の 民族 グループ に は 適用 さ れ ませ ん 。	This rule does not apply to Muslims or other ethnic groups .
+1	この イベント は 発生 し ませ ん でし た 。	この 出来事 は 起こら なかっ た 。	This event did not happen .
+0	この 哲学 は 彼 の 文章 で 見る こと が でき ます 。	この 哲学 は 彼 の 執筆 の 中 で 見る こと が でき ます 。	This philosophy can be seen in his writing .
+1	この 応答 は種 ごと に 異なり ます 。	この 応答 は種 によって 異なる 。	This response varies from species to species .
+1	この 現象 の 最も 顕著 な 例 の 一つ は 、 エルビス ・ プレ スリー の 場合 です 。	この 現象 の 最も 顕著 な 例 の 1 つ は エルビス ・ プレ スリー の 事例 です 。	One of the most prominent examples of this phenomenon is the case of Elvis Presley .
+1	この 表 の ランキング は 、 国際 オリンピック 委員 会 が 提供 し た 情報 に 基づい て い ます 。	この 表 の ランキング は 、 国際 オリンピック 委員 会 （ International Olympic Committee ） が 提供 する 情報 に 基づい て い ます 。	The ranking in this table is based on information provided by the International Olympic Committee .
+1	市 は また 、 独自 の 製造 ・ 加工 産業 を 持っ て い ます 。	この 都市 に は 独自 の 製造 業 と 加 工業 も あり ます 。	The city also has its own manufacturing and processing industries .
+1	この 曲 は 、 同じ 名前 の 踊り を 伴っ て い まし た 。	この 音楽 に は 同じ 名前 の ダンス が 伴い まし た 。	This music was accompanied by a dance of the same name .
+1	これ は 、 15 . 2 ％ の EU 平均 より も 低く なっ て い ます 。	これ は 、 EU の 平均 15 . 2 ％ より 低い です 。	This is lower than the EU average of 15.2 % .
+1	これ は 、 地域 の 主要 観光 スポット の 一つ です 。	これ は 、 地域 の 主要 な 観光 スポット の 一つ です 。	This is one of the main tourist attractions of the area .
+1	これ は 、 硫酸 の 製造 の ため の 触媒 として 使用 さ れ ます 。	これ は 、 硫酸 の 製造 の ため の 触媒 として 使用 さ れる 。	It is used as a catalyst for the production of sulfuric acid .
+0	これ は 時々 ポジティブ ・ アクション として 記述 さ れ て い ます 。 	これ は 「 陽性 行動 」 と 呼ば れる こと が あり ます 。 	This is sometimes described as positive action . 
+1	これ は 、 2007 年 6 月 以来 の 最初 の 直接 の 会議 でし た 。	これ は 2007 年 6 月 以来 初めて の 直接 会合 でし た 。	This was the first direct meeting since June 2007 .
+0	これ は 、 3 つ の コロニー の 二 番目 に あり まし た 。	これ は 3 つ の コロニー の うち の 2 番目 の もの でし た 。	This was the second of the three colonies .
+0	これ は また 、 EU の 予算 に も 適用 さ れ ます 。	これ は EU の 予算 に も 当てはまり ます 。	This also applies to the EU budget .
+1	これ は 、 アラスカ で 最初 の 主要 な 石油 発見 でし た 。	これ は アラスカ で 初めて の 主要 な 石油 発見 でし た 。	This was the first major oil discovery in Alaska .
+1	これ は 、 同社 の 財政難 に 起因 する 可能 性 が あり ます 。	これ は 会社 の 財政 的 困難 の ため かも しれ ませ ん 。	This may be due to the company 's financial difficulties .
+1	これ は 、 17 . 8 ％ の 州 平均 より も 低く なっ て い ます 。	これ は 州 平均 の 17 . 8 ％ より も 低い です 。	This is lower than the state average of 17.8 % .
+1	これ は 、 比較的 まれ な 出来事 です 。	これ は 比較的 まれ な こと です 。	This is a relatively rare occurrence .
+1	これ は イギリス の 学校 の リスト です 。	これ は 英国 の 学校 一覧 です 。	This is a list of schools in England .
+1	これ は 非常 に 高速 な ダンス です 。	これ は 非常 に 速い ダンス です 。	This is a very fast dance .
+1	これ は 、 創始 者 効果 と 呼ば れ て い ます 。	これ を ファウンダー 効果 と いい ます 。	This is called the founder effect .
+1	これら 2 つ の 製品 間 の 差異 は 、 製造 工程 です 。	これら 2 つ の 製品 の 違い は 、 製造 プロセス に あり ます 。	The difference between these two products is in the manufacturing process .
+1	これら の 信念 の いくつ か は 、 現実 に 根ざし て い ます 。	これら の 信念 の 一部 は 、 現実 に 根ざし て い ます 。	Some of these beliefs are rooted in reality .
+1	これら の レポート は 、 まだ 確認 さ れ て い ませ ん 。	これら の 報告 は まだ 確認 さ れ て い ませ ん 。	These reports have not been confirmed yet .
+1	これら の 建物 の 多く は 、 カラマズー の 街 を 見下ろす 丘 の 上 に 位置 し て い ます 。	これら の 建物 の 多く は カラマズー の 街 を 見下ろす 丘 の 上 に あり ます 。	Many of these buildings are located on a hill overlooking the city of Kalamazoo .
+1	これら の 制限 の 目的 は 、 放出 さ れる 水銀 廃棄 物 の 量 を 減少 さ せる こと により 、 環境 と 公衆 衛生 を 保護 する こと です 。	これら の 規制 の 目的 は 、 放出 さ れる 水銀 廃棄 物 の 量 を 減らす こと によって 環境 および 公衆 衛生 を 保護 する こと です 。	The purpose of these restrictions is to protect the environment and public health by decreasing the amount of mercury waste released .
+1	これら は 、 コミュニティ の 多く の メンバー から 批判 さ れ まし た 。	これら は コミュニティ の 多く の メンバー によって 批判 さ れ まし た 。	These were criticized by many members of the community .
+0	これら は 、 中米 と カリブ海 地域 です 。	これら は 中米 と カリブ海 諸国 です 。	These are Central America and the Caribbean .
+1	それら は 、 典型 的 に は 、 サーバ や ネットワーク アプリケーション に 使用 さ れ て い ます 。	これら は 通常 、 サーバー および ネットワーキングアプリケーション で 使用 さ れ ます 。	They are typically used in server and networking applications .
+1	コンテスト で 使用 さ れる 投票 システム は 、 長年 にわたって 変更 さ れ まし た 。	コンテスト で 使用 さ れる 投票 システム は 、 長年 にわたって 変化 し て き まし た 。	The voting system used in the contest has changed over the years .
+1	対照 群 も あり まし た 。	コントロール グループ も あっ た 。	There was also a control group .
+0	コンピュータ ・ グラフィックス は 、 次 の 分野 で 使用 さ れる こと が あり ます 。	コンピュータグラフィックス は 、 次 の 領域 で 使用 でき ます 。	Computer graphics may be used in the following areas :
+1	サッカー と 野球 は 伝統 的 に 韓国 で 最も 人気 の ある スポーツ で ある と 見なさ れ て き まし た 。	サッカー と 野球 は 伝統 的 に 韓国 で 最も 人気 の ある スポーツ と みなさ れ て き まし た 。	Football and baseball have traditionally been regarded as the most popular sports in Korea .
+1	また 、 サッカー や その他 の スポーツ の ため に 使用 さ れ ます 。	サッカー など の スポーツ に も 使用 さ れ て い ます 。	It is also used for football and other sports .
+0	これ は 、 一般 的 な 薬 として 利用 可能 です 。	ジェネリック 医薬品 として 入手 でき ます 。	It is available as a generic medication .
+0	しかし 、 あなた が 知っ て いる こと は あり ませ ん 。	しかし 、 あなた は 決して 知ら ない 。	But you never know .
+1	しか し 、 何 か が 常に あり まし た 。	しかし 、 いつも 何 か が あっ た 。	But there was always something .
+1	しかし 、 これら 二つ の グループ の 間 の 臨床 的 差異 が 存在 し ます 。	しかし 、 これら の 2 つ の グループ の 間 に は 臨床 的 な 違い が あり ます 。	However , there is a clinical difference between these two groups .
+1	ショー は また 、 数々 の 賞 および ノミネート を 受け まし た 。	ショー は また 数々 の 賞 と ノミネート を 受け まし た 。	The show also received numerous awards and nominations .
+1	ジョージタウン大学 は ジョージタウン の 繁華 街 に 位置 する プライベートリベラルアーツカレッジ です 。	ジョージタウン カレッジ は 、 ジョージタウン の ダウン タウン 地区 に ある 私立 リベラルアーツカレッジ です 。	Georgetown College is a private liberal arts college located in the downtown area of Georgetown .
+1	シリーズ の 最初 の シーズン は 、 2002 年 3 月 に DVD で リリース さ れ まし た 。	シリーズ の 第 1 シーズン は 2002 年 3 月 に DVD で リリース さ れ まし た 。	The first season of the series was released on DVD in March 2002 .
+1	シリーズ は 、 1 シーズン 続き まし た 。	シリーズ は 1 シーズン 続い た 。	The series lasted one season .
+1	すぐ に 彼 は 彼 自身 の 映画 を 作っ て い まし た 。	すぐ に 彼 は 自分 の 映画 を 作っ て い た 。	Soon he was making his own movies .
+1	スタジアム は 2012 年 世界 ジュニア アイスホッケー 選手権 大会 の 会場 の 一つ でし た 。	スタジアム は 2012 年 世界 ジュニア ・ アイスホッケー 選手権 の 開催 地 の 1 つ でし た 。	The stadium was one of the venues for the 2012 World Junior Ice Hockey Championships .
+1	ストックトン は 、 ティーズ 川 の 北岸 に 位置 し て い ます 。	ストックトン は ティーズ 川 の 北岸 に あり ます 。	Stockton is located on the north bank of the River Tees .
+1	すべて の テレビ チャンネル は 、 市内 で ご 利用 いただけ ます 。	すべて の テレビ チャンネル は 市内 で 利用 可能 です 。	All TV channels are available in the city .
+1	セグメント は 、 2 ヶ月 前倒し で 完了 し まし た 。	セグメント は 予定 より 2 ヵ月 早く 完了 し まし た 。	The segment was completed two months ahead of schedule .
+1	式典 の 正確 な 日付 は 不明 です 。	セレモニー の 正確 な 日付 は 不明 です 。	The exact date of the ceremony is unknown .
+1	ソーヤー は 、 民主党 の メンバー でし た 。	ソーヤー は 民主党 の メンバー だっ た 。	Sawyer was a member of the Democratic Party .
+0	それら の 中 に 残さ れ た 生命 力 は あり ませ ん 。 	そこ に は 活力 は 残っ て い ませ ん 。 	There is no vitality left in them . 
+1	そして 、 私 は 彼ら と その 家族 に 謝罪 し たい です 。	そして 、 私 は 彼ら と その 家族 に 謝罪 し たい 。	And I want to apologize to them and their families .
+0	それら の 一つ は 、 以下 に 記載 さ れ て い ます 。	その うち の 1 つ を 以下 に 説明 する 。	One of them is described below .
+0	その うち の 一つ は 、 殺さ れ まし た 。	その うち の 1 人 が 殺さ れ た 。	One of them was killed .
+1	それら の いくつ か は 、 世界 最古 の 一つ です 。	その 中 に は 世界 で 最も 古い もの も あり ます 。	Some of them are among the oldest in the world .
+0	その リーダー と メンバー の 多く は 、 この 期間 中 に 起訴 、 さらに は 殺さ れる で あろ う 。	その 指導 者 と メンバー の 多く は 、 この間 に 起訴 さ れ 、 殺さ れる こと さえ あり まし た 。	Many of its leaders and members would be prosecuted and even killed during this time .
+1	他 の 要因 も 考慮 さ れ ます 。	その他 の 要因 も 考慮 さ れ ます 。	Other factors are also taken into account .
+0	これ は 、 ニューデリー の 領域 を 含み ます 。	それ に は ニューデリー の 地域 も 含ま れ ます 。	It includes the area of New Delhi .
+1	それ は 礼拝 の 場所 を 持っ て い ます 。	それ に は 礼拝 の 場 が あり ます 。	It has a place of worship .
+0	これ は 、 国内 で 初めて の プライベート 美術館 です 。	それ は 、 国 の 最初 の 私立 博物館 です 。	It is the first private museum in the country .
+1	これ は 、 西  と の 提携 に 向け た 最初 の 一 歩 でし た 。	それ は 「 西 」 と の 同盟 へ の 第一歩 だっ た 。	It was the first step towards an alliance with the West  .
+1	これ は 、 100 グラム 当たり タンパク質 18 グラム が 含ま れ て い ます 。	それ は 100 グラム あたり 18 グラム の タンパク質 を 含む 。	It contains 18 grams of protein per 100 grams .
+1	これ は 、 1940 年 と 1943 年 の 間 に 書か れ まし た 。	それ は 1940 年 から 1943 年 の 間 に 書か れ まし た 。	It was written between 1940 and 1943 .
+1	これ は 、 1969 年 に ケルン 大学 が 購入 し まし た 。	それ は 1969 年 に ケルン 大学 によって 購入 さ れ た 。	It was purchased by the University of Cologne in 1969 .
+1	これ は 、 1975 年 以来 閉鎖 さ れ て い ます 。	それ は 1975 年 以来 閉鎖 さ れ て いる 。	It has been closed since 1975 .
+0	それ が 完成 し 、 1985 年 に オープン し まし た 。	それ は 1985 年 に 完成 し 開か れ まし た 。	It was completed and opened in 1985 .
+1	これ は 、 2 週間 チャート 上 に とどまり まし た 。	それ は 2 週間 チャート に とどまっ た 。	It stayed on the chart for two weeks .
+1	これ は 、 4 週 連続 で チャート 上 に 残り まし た 。	それ は 4 週間 連続 し て チャート に 残り まし た 。	It remained on the chart for four consecutive weeks .
+1	これ は 、 5 週間 チャート 上 に とどまり まし た 。	それ は 5 週間 チャート に とどまっ た 。	It stayed on the chart for five weeks .
+0	これ は 、 6 週間 の トップ 10 に 残り まし た 。	それ は 6 週間 にわたって トップ 10 に とどまっ た 。	It remained in the top ten for six weeks .
+1	これ は 、 60 トン の 運搬 能力 を 持っ て い ます 。	それ は 60 トン の 運搬 能力 を 有する 。	It has a carrying capacity of 60 tons .
+0	これ は 、 唯一 の ゴルバチョフ 改革 の 結果 として 、 1989 年 に 出版 さ れ まし た 。	それ は ゴルバチョフ の 改革 の 結果 として 1989 年 に のみ 出版 さ れ た 。	It was only published in 1989 as a result of the Gorbachev reforms .
+1	それ は ショー の オープニング 曲 でし た 。	それ は ショー の オープニング 曲 だっ た 。	It was the opening song of the show .
+1	それ は すべて に 開い て いる 必要 が あり ます 。	それ は すべて に 開か れ て い なけれ ば なり ませ ん 。	It must be open to all .
+0	これ は 、 一般 的 に ヒンドゥー 教 と 仏教 の 宗教 の シンボル として 使用 さ れ 続け て い ます 。	それ は ヒンズー教 と 仏教 における 宗教 的 シンボル として 一般 的 に 使用 さ れ 続ける 。	It continues to be commonly used as a religious symbol in Hinduism and Buddhism .
+0	その よう な こと は あり ませ ん 。	それ は もはや 事実 で は ない 。	That is no longer the case .
+1	マウントレーニア の 上空 を 飛行 し た 最初 の 飛行機 でし た 。	それ は レーニア 山 を 飛行 する 最初 の 飛行機 でし た 。	It was the first plane to fly over Mount Rainier .
+0	これ は 、 ローマ の 砦 の 跡地 に 建設 さ れ て いる 可能 性 が あり ます 。	それ は ローマ の 要塞 の 敷地 に 建設 さ れ た かも しれ ない 。	It may have been built on the site of a Roman fort .
+1	それ は 、 世界中 の 多く の 海域 で 導入 さ れ まし た 。	それ は 世界中 の 多く の 水域 で 導入 さ れ まし た 。	It was introduced in many waters around the world .
+1	これ は 、 中国 の 主要 な 農業 生産 基地 の 一つ です 。	それ は 中国 の 主要 農業 生産 拠点 の 一つ です 。	It is one of the major agricultural production bases of China .
+1	これ は 、 人気 の 観光 地 です 。	それ は 人気 の ある 観光 スポット です 。	It is a popular tourist attraction .
+0	それ は 次 の 機能 が あり ます 。	それ は 以下 の 特徴 を 有する ：	It has the following features :
+1	また 、 何 か を する 権利 です 。	それ は 何 か を する 権利 で も あり ます 。	It is also the right to do something .
+1	これ は 、 国 の 最古 の 自治体 や 河川 港 の 一つ です 。	それ は 国 の 最も 古い 地方自治体 および 川 の 港 の 1 つ で ある 。	It is one of the oldest municipalities and river ports of the country .
+1	それ は 外野 で 最も 深い ポイント です 。	それ は 外野 で 最も 深い 点 です 。	That is the deepest point in the outfield .
+1	これ は 、 水溶 性 で は あり ませ ん 。	それ は 水 に 溶け ない 。	It is not soluble in water .
+1	それ は 確か に 彼女 の 成功 へ の 鍵 です 。	それ は 確か に 彼女 の 成功 の 鍵 です 。	That is certainly the key to her success .
+1	これ は 、 ソーシャルエンジニアリング の 一 形態 です 。	それ は 社会 工学 の 一 形態 です 。	It is a form of social engineering .
+0	これ は 、 独立 戦争 時 の 病院 として 使用 さ れ まし た 。	それ は 革命 戦争 中 に 病院 として 使わ れ まし た 。	It was used as a hospital during the Revolutionary War .
+1	彼ら は 、 温帯 地域 で 発見 さ れ て い ます 。	それら は 温帯 地方 に み られる 。	They are found in temperate regions .
+0	タイトル は 、 長年 にわたって 変更 さ れ まし た 。	タイトル は 長年 にわたって 変化 し て い ます 。	The title has changed over the years .
+1	チーム の 3 番目 の メンバー は 、 無線 オペレータ でし た 。	チーム の 3 人 目 の メンバー は ラジオ オペレーター でし た 。	The third member of the team was a radio operator .
+1	チェンナイ に ある マリーナ ビーチ は 、 世界 で 最も 長い ビーチ の 一つ です 。	チェンナイ の マリーナ ビーチ は 世界 で 最も 長い ビーチ の 一つ です 。	Marina Beach in Chennai is one of the longest beaches in the world .
+1	チリ の 2002 年 の 国勢調査 は 1500 万 人 の 人口 を 報告 し まし た 。	チリ の 2002 年 の 国勢調査 は 、 人口 1 , 500 万 人 を 報告 し た 。	Chile 's 2002 census reported a population of 15 million people .
+1	テディベア の 大 部分 は 中国 や インドネシア など の 国 で 製造 さ れ て い ます 。	テディベア の 大半 は 、 中国 や インドネシア など の 国 で 製造 さ れ て い ます 。	The majority of teddy bears are manufactured in countries such as China and Indonesia .
+1	デリー の 人口 の 半分 以上 が スラム 街 に 住ん で い ます 。	デリー の 人口 の 半分 以上 が スラム 街 に 住ん で いる 。	More than half of the population of Delhi lives in slums .
+1	ドイツ が フランス に 宣戦 布告 し まし た 。	ドイツ は フランス と の 戦争 を 宣言 し た 。	Germany declared war on France .
+0	なぜ あなた は 一生懸命 働く の です か ？	どうして そんなに 頑張っ てる の ？	Why do you work so hard ?
+0	両 種 は オーストラリア に 自生 し て い ます 。	どちら の 種 も オーストラリア 原産 です 。	Both species are native to Australia .
+1	両方 とも 、 大西洋 に あり ます 。	どちら も 大西洋 に あり ます 。	Both are in the Atlantic .
+1	両方 が 恋 に 落ち 、 結婚 し まし た 。	どちら も 恋 に 落ち て 結婚 し た 。	Both fell in love and got married .
+1	両方 とも 、 戦争 を 生き延び まし た 。	どちら も 戦争 で 生き残っ た 。	Both survived the war .
+1	それら の 両方 は 、 教会 の 教え によって 解釈 さ れ ます 。	どちら も 教会 の 教え によって 解釈 さ れ ます 。	Both of them are interpreted by the teachings of the Church .
+0	この 問題 を 解決 する こと なく 、 トルコ 経済 を 統合 する こと は 不可能 でし た 。	トルコ 経済 を この 問題 の 解決 策 なし で 統合 する こと は 不可能 でし た 。	It was impossible to integrate the Turkish economy without a solution to this problem .
+0	新しい アメリカ の 聖書 の 初版 の テキスト の 構成 は 次 の とおり です 。	ニュー ・ アメリカン ・ バイブル の 初版 の 文章 は 次 の よう に 構成 さ れ て い ます ：	The text of the first edition of the New American Bible is composed of :
+1	ニューヨーク 市 は 、 米国 で 最大 の メディア 市場 です 。	ニューヨーク 市 は 、 米国 最大 の メディア 市場 です 。	New York City is the largest media market in the United States .
+0	ハーディ は 5 人 兄弟 の 末っ子 でし た 。	ハーディー は 5 人 の 子供 の うち 最も 若かっ た 。	Hardy was the youngest of five children .
+1	Barr 氏 は 、 全会 一致 で 上院 司法 委員 会 によって 承認 さ れ まし た 。	バール 氏 は 上院 司法 委員 会 で 満場一致 で 承認 さ れ た 。	Barr was unanimously approved by the Senate Judiciary Committee .
+0	パシフィック・クレスト・トレイル は 、 山 の 尾根 に 沿っ て 通過 し ます 。	パシフィック・クレスト・トレイル は 山頂 を 通り ます 。	The Pacific Crest Trail passes along the mountain ridge .
+1	ハル は 1930 年 に 上院 に 選出 さ れ まし た 。	ハル は 1930 年 に 上院 に 選出 さ れ た 。	Hull was elected to the Senate in 1930 .
+1	フェラーロ は 、 ニューヨーク 市 で 育ち 、 弁護士 として の 訓練 前 に 公立 学校 の 教師 として 働い て い まし た 。	フェラーロ は ニューヨーク 市 で 育ち 、 弁護士 として 訓練 を 受ける 前 に 公立 学校 の 教師 として 働い て い まし た 。	Ferraro grew up in New York City and worked as a public school teacher before training as a lawyer .
+1	ブラジル の リオ・デ・ジャネイロ は 、 2016 年 夏季 オリンピック の 開催 都市 に なり ます 。	ブラジル の リオデジャネイロ は 2016 年 夏季 オリンピック の 開催 都市 と なり ます 。	Rio de Janeiro in Brazil will be the host city of 2016 Summer Olympics .
+1	フランス は 国連 の 創設 メンバー で あり 、 拒否 権 を 持つ 国連 安全 保障 理事 会 の 常任 理事 国 の 一つ として 機能 し ます 。	フランス は 国連 の 創設 メンバー で あり 、 国連 安保理 常任 理事 国 の 一員 として 拒否 権 を 有し て い ます 。	France is a founding member of the United Nations and serves as one of the permanent members of the UN Security Council with veto rights .
+1	プロジェクト が 保留 に なっ て い ます 。	プロジェクト は 保留 中 です 。	The project is on hold .
+1	ボート の 人々 の 窮状 は 、 国際 人道 危機 と なり まし た 。	ボート の 人々 の 窮状 は 国際 的 な 人道 危機 に なり まし た 。	The plight of the boat people became an international humanitarian crisis .
+1	ほとんど の 症例 の 原因 は 不明 です 。	ほとんど の 症例 の 原因 は 不明 で ある 。	The cause of most cases is unclear .
+0	また 、 レコーディング スタジオ や フィルム 生産 設備 を 持っ て い ます 。	また 、 レコーディング スタジオ と 映画 制作 施設 も あり ます 。	It also has a recording studio and film production facilities .
+0	また 、 他 の 多く の 公共 および 民間 の アート ギャラリー や 美術館 が あり ます 。	また 、 多く の 公立 ・ 私立 の 美術館 や 博物館 が あり ます 。	There are also many other public and private art galleries and museums .
+0	彼 は また 、 スイス と アルプス について の 本 の シリーズ を 書き まし た 。	また スイス と アルプス に関する 一連 の 書物 を 書い た 。	He also wrote a series of books about Switzerland and the Alps .
+1	めったに 使わ れる こと は あり ませ ん 。	まれ に 使用 さ れ ます 。	It is rarely used .
+1	メーリングリスト は コミュニケーション の メイン チャンネル の 一つ です 。	メーリングリスト は 、 コミュニケーション の 主 な チャネル の 1 つ です 。	The mailing lists are one of the main channels of communication .
+1	メディケア は 今 の アメリカ 人 の 数 千 万 人 を カバー し て い ます 。	メディケア は 現在 、 何 千 万 人 も の アメリカ 人 を カバー し て い ます 。	Medicare now covers tens of millions of Americans .
+1	メラニー は 、 ニューヨーク で 最も 成功 し た 不動産 ブローカー の 一つ と なり まし た 。	メラニー は ニューヨーク で 最も 成功 し た 不動産 ブローカー の 1 つ に なり まし た 。	Melanie became one of the most successful real estate brokers in New York .
+1	会員 数 は 増え 続け て い ます 。	メンバー 数 は 増え 続け て い ます 。	The number of members continues to grow .
+1	モーリス は 、 3 兄弟 の 末っ子 でし た 。	モーリス は 3 人 の 兄弟 の うち 最も 若かっ た 。	Maurice was the youngest of three siblings .
+1	別 の 解決 策 は 、 システム 上 の アクティブ な タスク の 数 を 減らす こと です 。	もう 1 つ の 解決 策 は 、 システム 上 の アクティブ な タスク の 数 を 減らす こと です 。	Another solution is to reduce the number of active tasks on the system .
+1	モスク は 非常 に 高い プラットフォーム 上 に あり ます 。	モスク は 非常 に 高い プラットフォーム に あり ます 。	The mosque is on a very high platform .
+1	それ は 避け られ ませ ん よ 。	やむを得ない こと だ 。	It 's unavoidable .
+0	ヤンキース は 1978 年 の ワールド シリーズ 以来 の 初 優勝 を 獲得 する ため に 1996 年 の ワールド シリーズ で アトランタ ・ ブレーブス を 破り まし た 。	ヤンキース は 、 1996 年 ワールド シリーズ で アトランタ ・ ブレーブス を 破り 、 1978 年 ワールド シリーズ 以来 初 の チャンピオン を 獲得 し た 。	The Yankees defeated the Atlanta Braves in the 1996 World Series to win their first championship since the 1978 World Series .
+0	リッピ は 、 チーム の 精神 と チーム の 団結 の 重要 性 を 強調 し て い ます 。	リッピ は 、 チーム の 精神 と チーム の 一体 感 の 重要 性 を 強調 し て いる 。	Lippi emphasizes the importance of team spirit and team unity .
+1	リビア は 冬季 オリンピック に 参加 し た こと が あり ませ ん 。	リビア は 冬季 オリンピック に は 一 度 も 参加 し て い ない 。	Libya has never participated in the Winter Olympic Games .
+1	リベイロ は 、 8 歳 の 時 に 彼 の キャリア を 始め まし た 。	リベイロ は 8 歳 で キャリア を スタート し まし た 。	Ribeiro began his career at the age of eight .
+0	審判 は リング から 護衛 し なけれ ば なり ませ ん でし た 。	レ フリー は リング から 護衛 さ れ なけれ ば なら なかっ た 。	The referee had to be escorted from the ring .
+1	レバノン は また 、 いくつ か の アラブ 諸国 と の 二 国 間 貿易 協定 を 持ち 、 世界 貿易 機関 （ WTO ） へ の 加盟 に 向け て 取り組ん で い ます 。	レバノン は また 、 いくつ か の アラブ 諸国 と の 二 国 間 貿易 協定 を 締結 し て おり 、 世界 貿易 機関 （ WTO ） へ の 加盟 に 向け て 取り組ん で いる 。	Lebanon also has bilateral trade agreements with several Arab states and is working toward accession to the World Trade Organization .
+1	ローカル バス サービス も 利用 可能 です 。	ローカル バス サービス も 利用 でき ます 。	Local bus service is also available .
+1	ロブレド は 、 自由党 の メンバー でし た 。	ロブレド は 自由党 の メンバー だっ た 。	Robredo was a member of the Liberal Party .
+0	ウォード は 、 2005 年 の 夏 に 引退 し まし た 。	ワード は 2005 年 の 夏 に 退職 し た 。	Ward retired in the summer of 2005 .
+1	いくつ か は 個人 所有 さ れ て い ます 。	一部 は 私有 です 。	Some are privately owned .
+0	上院 は 修正 案 を 採用 し ませ ん でし た 。	上院 は 改正 を 採択 し なかっ た 。	The Senate did not adopt the amendment .
+0	世代 の 概念 は 長い 歴史 が あり 、 古代 の 文献 に 見出す こと が でき ます 。	世代 の 概念 は 古く から の 歴史 を 持ち 、 古代 文学 に も 見 られ ます 。	The concept of a generation has a long history and can be found in ancient literature .
+0	グローバル な コスト は $ 7 億 と 推定 さ れ ます 。	世界 的 な コスト は 70 億 ドル と 見積もら れ て い ます 。	The global cost is estimated at $ 7 billion .
+0	世界中 の 多く の 教育 機関 は 、 彼 の 名 に ちなん で 名付け られ て い ます 。	世界中 の 多く の 教育 機関 が 彼 の 名前 を 付け られ て い ます 。	Many educational institutions around the world are named after him .
+1	世紀 の 終わり まで に 人口 が 8400 に 達し て い まし た 。	世紀 末 まで に 、 人口 は 8 , 400 に 達し まし た 。	By the end of the century the population had reached 8,400 .
+0	両 プレイヤー は トーナメント で 6 得点 を 記録 し まし た 。	両 選手 は トーナメント で 6 ゴール を 決め た 。	Both players scored six goals in the tournament .
+0	中国 と インドネシア は 意思 決定 に 懸念 を 表明 し て い ます 。	中国 と インドネシア は この 決定 に 懸念 を 表明 し て いる 。	China and Indonesia have expressed concern about the decision .
+0	予後 は 、 疾患 の 重症 度 に 依存 し ます 。	予後 は 、 障害 の 重 篤 度 に 依存 する 。	Prognosis depends on the severity of the disorder .
+1	事実 上 、 これら の 目的 の いずれ も が 満たさ れ ませ ん でし た 。	事実 上 、 これら の 目的 の どれ も 達成 さ れ なかっ た 。	Virtually none of these objectives were met .
+1	人々 は 、 彼ら が やり たい こと が できる はず です 。	人々 は 自分 が 望む こと を する こと が できる はず です 。	People should be able to do what they want .
+1	人口 の 三 分の 二 以上 は 貧困 線 以下 で 暮らし て い ます 。	人口 の 3 分の 2 以上 が 貧困 線 以下 の 生活 を 送っ て い ます 。	More than two-thirds of the population lives below the poverty line .
+1	人口 の 四 分の 一 は 、 直接 または 間接 的 に 観光 分野 で 採用 さ れ て い ます 。	人口 の 4 分の 1 が 観光 セクター に 直接的 または 間接 的 に 雇用 さ れ て い ます 。	One quarter of the population is directly or indirectly employed in the tourism sector .
+1	人口 は 1980 年代 に 回復 し 始め まし た 。	人口 は 1980 年代 に 回復 し 始め た 。	The population began to recover in the 1980s .
+0	今 は 保護 さ れ た 領域 です 。	今や 保護 地域 に なっ て い ます 。	It is now a protected area .
+0	この 時間 は 、 彼 は シーズン 終了 まで ピッチ の 外 に 残っ て い まし た 。	今回 は シーズン が 終わる まで 彼 は ピッチ から 外れ た 。	This time he was left out of the pitch until the end of the season .
+0	今日 だけ 少数 の ユダヤ 人 が シリア に 残り ます 。	今日 、 シリア に 残っ て いる ユダヤ 人 は ほんの わずか です 。	Today only a few Jews remain in Syria .
+1	他 の 2 つ は 、 ハー バード 大学 、 バージニア 大学 でし た 。	他 の 2 つ は 、 ハー バード 大学 と バージニア 大学 でし た 。	The other two were Harvard University and the University of Virginia .
+1	コンピュータ ・ アーキテクチャ の 他 の タイプ が あり ます 。	他 の タイプ の コンピュータアーキテクチャ も ある 。	There are other types of computer architecture .
+1	他 の 国 で は 、 この よう な 状況 で は 、 モルヒネ または 他 の 強力 な オピオイド を 用いる こと が より 一般 的 です 。	他 の 国 で は 、 これら の 状況 で モルヒネ または 他 の 強力 な オピオイド を 使用 する こと が より 一般 的 で ある 。	In other countries it is more common to use morphine or other strong opioids in these situations .
+0	他 の 役員 の ほとんど が 海 に 戻り まし た 。	他 の 将校 の ほとんど は 海 に 戻っ た 。	Most of the other officers returned to the sea .
+1	他 の 研究 で は 、 同様 の 結論 に 達し まし た 。	他 の 研究 も 同様 の 結論 に 達し て いる 。	Other studies have reached similar conclusions .
+1	以下 は 、 それら の いくつ か の リスト です ：	以下 は その 一部 の リスト です ：	The following is a partial list of some of them :
+0	エリア 内 の 他 の 観光 スポット の サンプル を 次に 示し ます 。	以下 は その 地域 の 他 の アトラクション の 例 です ：	Following is a sample of other attractions in the area :
+1	それ 以来 、 世界中 の 他 の クラブ の ファン の 間 で 人気 を 得 て い ます 。	以来 、 世界中 の 他 の クラブ の ファン の 間 で 人気 を 博し まし た 。	It has since gained popularity among fans of other clubs around the world .
+1	何 百 人 も の 人々 が 死亡 または 負傷 し まし た 。	何 百 人 も の 人 が 死傷 し た 。	Hundreds of people were killed or injured .
+1	前例 は あり ませ ん でし た 。	先例 は なかっ た 。	There was no precedent .
+1	免疫 系 は 、 自閉症 において 重要 な 役割 を 果たし て いる と 考え られ て い ます 。	免疫 系 は 、 自閉症 において 重要 な 役割 を 果たす と 考え られ て いる 。	The immune system is thought to play an important role in autism .
+0	北朝鮮 が 見返り に 得 た もの は 明らか で は あり ませ ん 。	北朝鮮 が 何 を 返す の か は はっきり し て い ない 。	It is not clear what North Korea got in return .
+1	北米 と 欧州 の 両方 が 天然 ガス の 主要 な 消費 者 です 。	北米 と ヨーロッパ の 両方 が 天然 ガス の 主要 消費 者 です 。	Both North America and Europe are major consumers of natural gas .
+0	単数 と 複数 と の 間 に 違い は あり ませ ん 。	単数 形 と 複数 形 の 間 に 違い は あり ませ ん 。	There is no difference between singular and plural .
+1	古い 宮殿 の 一部 は 、 18 世紀 の 軍事 刑務所 として 使用 さ れ まし た 。	古い 宮殿 の 一部 は 、 18 世紀 に 軍 の 刑務所 として 使わ れ まし た 。	Part of the old palace was used as a military prison in the eighteenth century .
+1	また 、 国内 最大 の 企業 です 。	同国 最大 の 企業 で も あり ます 。	It is also the largest company in the country .
+1	同じ 年 に 、 国 は 道路 交通 に関する ウィーン 条約 の 一員 と なり まし た 。	同年 、 国 は 道路 交通 に関する ウィーン 条約 の メンバー に なり まし た 。	In the same year , the country became a member of the Vienna Convention on Road Traffic .
+0	同性愛 は 、 ほぼ すべて の イスラム 教徒 の 国 で 違法 です 。	同性愛 は ほとんど すべて の イスラム 諸国 で は 違法 です 。	Homosexuality is illegal in almost all Muslim countries .
+1	同社 は 1984 年 に ハスブロ によって 買収 さ れ まし た 。	同社 は 1984 年 に ハスブロ によって 買収 さ れ た 。	The company was acquired by Hasbro in 1984 .
+1	名前 の 正確 な 起源 は 謎 の まま 。	名前 の 正確 な 起源 は 謎 の まま です 。	The exact origin of the name remains a mystery .
+1	商業 的 な サービス は あり ませ ん 。	商用 サービス は あり ませ ん 。	There is no commercial service .
+0	喘息 の 治療 法 は あり ませ ん 。	喘息 の 治癒 は あり ませ ん 。	There is no cure for asthma .
+1	回復 期間 は 半年 程度 の 長 さ でし た 。	回復 期間 は 約 6 ヶ月 で あっ た 。	The recovery period was about six months long .
+1	国 の 福音 派 の 数 は 急速 に 増加 し て い ます 。	国 の 福音 派 の 数 は 急速 に 増え て い ます 。	The number of evangelicals in the country is growing rapidly .
+0	これ は 、 国内 の 観光 客 の ため の 魅力 的 な 場所 です 。	国内 観光 客 にとって 魅力 的 な 場所 です 。	It is an attractive place for domestic tourists .
+1	国家 は 冬季 オリンピック に 参加 し た こと が あり ませ ん 。	国家 は 冬季 オリンピック に は 一 度 も 参加 し て い ない 。	The nation has never participated in the Winter Olympic Games .
+1	国際 宇宙 ステーション は 、 この よう な システム の 一 例 です 。	国際 宇宙 ステーション は その よう な システム の 一 例 です 。	The International Space Station is an example of such a system .
+0	上院 議員 の 圧倒的 多数 は 、 常に 政党 の 代表 として 選出 さ れ まし た 。	圧倒的 多数 の 上院 議員 が 常に 政党 の 代表 として 選出 さ れ て き た 。	The overwhelming majority of senators have always been elected as representatives of political parties .
+0	地域 経済 は 、 伝統 的 な 農業 や 畜産 業 に 基づい て い まし た 。	地元 経済 は 伝統 的 な 農業 と 畜産 に 基づい て い まし た 。	The local economy was based on traditional agriculture and animal husbandry .
+1	多く の カジノ は 、 ハリケーン・カトリーナ によって 損傷 または 破壊 さ れ まし た 。	多く の カジノ は ハリケーン・カトリーナ によって 損害 を 受け たり 破壊 さ れ たり し まし た 。	Many casinos were damaged or destroyed by Hurricane Katrina .
+1	多く の 学生 が インターンシップ を 見つける ため の 良い 機会 です 。	多く の 学生 が インターンシップ を 見つける 良い 機会 です 。	It is a good opportunity for many students to find an internship .
+1	多数 の 小規模 な 地元 企業 は 、 建設 部門 に 関与 し て い ます 。	多く の 小さな 地元 企業 が 建設 部門 に 関与 し て い ます 。	Numerous small local companies are involved in the construction sector .
+1	多く の 選手 は また 、 職 を 失い まし た 。	多く の 選手 も 仕事 を 失っ た 。	Many players also lost their jobs .
+1	大学 は また 、 連邦 大学 協会 の 会員 です 。	大学 は 連邦 大学 協会 の メンバー で も あり ます 。	The university is also a member of the Association of Commonwealth Universities .
+1	大脳 は 脳 の 最大 部分 です 。	大脳 は 脳 の 最も 大きな 部分 です 。	The cerebrum is the largest part of the brain .
+0	カップル は 1960 年 に 亡くなる まで ペンシルベニア 州 に 住ん で い まし た 。	夫婦 は 1960 年 に 彼 が 死ぬ まで ペンシルバニア に 住ん で い た 。	The couple lived in Pennsylvania until his death in 1960 .
+1	少なくとも 31 人 が 死亡 し 、 100 人 が 負傷 し まし た 。	少なくとも 31 人 が 死亡 し 、 100 人 が 負傷 し た 。	At least 31 people died and 100 people were injured .
+1	少なくとも 500 人 が パルマ によって 殺さ れ まし た 。	少なくとも 500 人 が パルマ によって 殺さ れ た 。	At least 500 people were killed by Parma .
+1	尖塔 は 、 翌年 完成 し まし た 。	尖塔 は 翌年 に 完成 し た 。	The spire was completed the following year .
+1	島 に は 木 が あり ませ ん 。	島 に は 樹木 が あり ませ ん 。	There are no trees on the island .
+0	もう 一 人 は 、 嵐 の 中 、 交通 事故 で 死亡 し まし た 。	嵐 の 間 に 交通 事故 で 別 の 人 が 死亡 し た 。	Another person died in a traffic accident during the storm .
+1	州法 は 、 性 自認 や 性的 指向 に 基づく 憎悪 犯罪 に 対処 し て い ませ ん 。	州法 は 、 性 同一 性 や 性的 指向 に 基づく 憎悪 犯罪 に 対処 し て い ませ ん 。	State law does not address hate crimes based on gender identity or sexual orientation .
+0	平均 年齢 は 37 歳 です 。	年齢 の 中央 値 は 37 歳 です 。	The median age is 37 years .
+0	平均 年齢 は 43 歳 です 。	年齢 の 中央 値 は 43 歳 です 。	The median age is 43 years .
+0	平均 年齢 は 44 歳 です 。	年齢 の 中央 値 は 44 歳 です 。	The median age is 44 years .
+1	建物 は アイオワ 州 で 最大 の 小学校 です 。	建物 は アイオワ 州 最大 の 小学校 です 。	The building is the largest elementary school in Iowa .
+1	建設 は 1983 年 に 始まり 、 1984 年 に 完成 し まし た 。	建設 は 1983 年 に 始まり 、 1984 年 に 完成 し た 。	Construction began in 1983 and was completed in 1984 .
+1	建設 は 1997 年 に 始まり 、 2003 年 に 完成 し まし た 。	建設 は 1997 年 に 始まり 、 2003 年 に 完成 し た 。	Construction began in 1997 and was completed in 2003 .
+1	建設 は 2002 年 の 秋 に 開始 し 、 2005 年 4 月 の 終わり まで に 完了 し まし た 。	建設 は 2002 年 の 秋 に 始まり 、 2005 年 4 月 末 まで に 完了 し まし た 。	Construction started in the autumn of 2002 and was completed by the end of April 2005 .
+0	強力 な ローマ カトリック の 存在 感 も あり ます 。	強力 な ローマ カトリック の 存在 も あり ます 。	There is also a strong Roman Catholic presence .
+1	8 人 は 、 元 の 事件 で 負傷 し まし た 。	当初 の 事件 で 8 人 が 負傷 し た 。	Eight people were injured in the original incident .
+1	だから 当然 犯罪 率 は 他 の どこ より も 高く なっ て い ます 。	当然 、 犯罪 発生 率 は どこ より も 高い です 。	So naturally the crime rate is higher than anywhere else .
+1	彼 の 彫像 は 、 街 の 中央 広場 に 立っ て い ます 。	彼 の 像 は 街 の 中央 広場 に 立っ て い ます 。	His statue stands in the central square of the city .
+1	彼 の 契約 は 、 2014 年 の 夏 に 満了 し ます 。	彼 の 契約 は 2014 年 の 夏 に 失効 する 。	His contract expires in the summer of 2014 .
+1	彼 の 死 は 、 マサチューセッツ工科大学 によって 発表 さ れ まし た 。	彼 の 死 は 、 マサチューセッツ工科大学 によって 発表 さ れ た 。	His death was announced by the Massachusetts Institute of Technology .
+1	彼 の 死 の 原因 は 調査 中 です 。	彼 の 死因 は 調査 中 です 。	The cause of his death is under investigation .
+1	彼 の 要求 が 許可 さ れ ませ ん でし た 。	彼 の 要求 は 認め られ なかっ た 。	His request was not granted .
+1	彼 は 彼 の 世代 の 最も 革新 的 な 作家 の 一 人 として 、 現代 の 批評 家 によって 認識 さ れ て い ます 。	彼 は 、 現代 批評 家 によって 、 彼 の 世代 の 最も 革新 的 な 作家 の 一 人 として 認め られ て いる 。	He is recognized by modern critics as one of the most innovative writers of his generation .
+1	彼 は 14 歳 で 彼 の 最初 の 科学 論文 を 書き まし た 。	彼 は 14 歳 で 最初 の 科学 論文 を 書い た 。	He wrote his first scientific paper at the age of 14 .
+1	彼 は 1801 年 と 1811 年 に 生まれ た 彼女 の 2 人 の 娘 の 父親 で あっ た と 考え られ て い ます 。	彼 は 1801 年 と 1811 年 に 生まれ た 彼女 の 2 人 の 娘 の 父親 で あっ た と 信じ られ て いる 。	He is believed to have been the father of her two daughters born in 1801 and 1811 .
+1	彼 は 1810 年 に スウェーデン 王立 科学 アカデミー の 外国 人 会員 に 選出 さ れ まし た 。	彼 は 1810 年 に スウェーデン 王立 科学 アカデミー の 外国 人 メンバー に 選出 さ れ まし た 。	He was elected a foreign member of the Royal Swedish Academy of Sciences in 1810 .
+1	彼 は 1907 年 に 米国 に 移住 し まし た 。	彼 は 1907 年 に 米国 に 移住 し た 。	He emigrated to the United States in 1907 .
+1	彼 は 1929 年 に 生まれ 、 2011 年 に 死亡 し まし た 。	彼 は 1929 年 に 生まれ 、 2011 年 に 死亡 し た 。	He was born in 1929 and died in 2011 .
+1	彼 は 1941 年 に ニューヨーク の コロンビア大学 で 医学 の 学位 を 受け まし た 。	彼 は 1941 年 に ニューヨーク 市 の コロンビア大学 から 医学 の 学位 を 取得 し まし た 。	He received a medical degree from Columbia University in New York City in 1941 .
+1	彼 は 1954 年 に 枢密院 に 任命 さ れ まし た 。	彼 は 1954 年 に 枢密院 に 任命 さ れ た 。	He was appointed to the Privy Council in 1954 .
+1	彼 は 1961 年 に 彼 の 両親 と オーストラリア に 移住 し まし た 。	彼 は 1961 年 に 両親 と 一緒 に オーストラリア に 移住 し た 。	He emigrated to Australia with his parents in 1961 .
+1	彼 は 1968 年 の 大統領 選挙 で ユージーン・マッカーシー を 支持 し まし た 。	彼 は 1968 年 の 大統領 選挙 で ユージーン・マッカーシー を 支持 し た 。	He supported Eugene McCarthy in the 1968 presidential election .
+1	彼 は 1992 年 から 1993 年 に ユーゴスラビア 連邦 共和 国 の 初代 大統領 でし た 。	彼 は 1992 年 から 1993 年 まで ユーゴスラビア 連邦 共和 国 の 最初 の 大統領 だっ た 。	He was the first president of the Federal Republic of Yugoslavia from 1992 to 1993 .
+1	彼 は 1998 年 に クリントン 大統領 の 弾劾 中 に 司法 委員 会 の メンバー でし た 。	彼 は 1998 年 に ビル ・ クリントン 大統領 の 弾劾 中 に 司法 委員 会 の メンバー だっ た 。	He was a member of the Judiciary Committee during the impeachment of President Bill Clinton in 1998 .
+0	彼 は 2 年 の 刑 を 言い渡さ れ まし た 。	彼 は 2 年 の 禁固刑 を 宣告 さ れ た 。	He was sentenced to two years imprisonment .
+1	彼 は 20 世紀 フォックス と 契約 を 締結 し まし た 。	彼 は 20 世紀 フォックス と 契約 を 結ん だ 。	He signed a contract with 20th Century Fox .
+1	彼 は 2000 年 と 2002 年 に シリーズ の 二つ の 追加 エピソード で 主演 し まし た 。	彼 は 2000 年 と 2002 年 に シリーズ の 2 つ の 追加 エピソード で 主演 し た 。	He starred in two additional episodes of the series in 2000 and 2002 .
+1	彼 は 2001 年 に トップ チーム に 昇格 し まし た 。	彼 は 2001 年 に トップ チーム に 昇格 し た 。	He was promoted to the top team in 2001 .
+1	彼 は 2004 年 に レッド ソックス から 引退 し まし た 。	彼 は 2004 年 に レッド ソックス から 引退 し た 。	He retired from the Red Sox in 2004 .
+1	彼 は 2006 年 に 代表 チーム から 引退 し まし た 。	彼 は 2006 年 に 代表 チーム から 引退 し た 。	He retired from the national team in 2006 .
+1	彼 は 2010 年 冬季 パラリンピック で 3 個 の 金メダル と 銀メダル を 獲得 し まし た 。	彼 は 2010 年 の 冬季 パラリンピック で 3 つ の 金メダル と 銀メダル を 獲得 し まし た 。	He won three gold medals and a silver medal at the 2010 Winter Paralympics .
+1	彼 は 4 月 下旬 に ニューヨーク から ロンドン に 到着 し まし た 。	彼 は 4 月 下旬 に ニューヨーク から ロンドン に 到着 し た 。	He arrived in London from New York in late April .
+1	彼 は 60 歳 の 誕生 日 の 前日 に 死亡 し まし た 。	彼 は 60 歳 の 誕生 日 の 前日 に 亡くなり まし た 。	He died the day before his 60th birthday .
+1	彼 は 71 歳 で 2014 年 に 死亡 し まし た 。	彼 は 71 歳 で 2014 年 に 死亡 し た 。	He died in 2014 at the age of 71 .
+1	彼 は 81 試合 に 出場 し 、 20 ゴール 、 50 ポイント を 獲得 し まし た 。	彼 は 81 試合 で プレー し 、 20 ゴール と 50 ポイント を 獲得 し た 。	He played in 81 games and scored 20 goals and 50 points .
+1	彼 は 86 歳 で ミュンヘン で 死亡 し まし た 。	彼 は 86 歳 で ミュンヘン で 死亡 し た 。	He died in Munich at the age of 86 .
+1	彼 は 90 歳 で ローマ で 死亡 し まし た 。	彼 は 90 歳 で ローマ で 死亡 し た 。	He died in Rome at the age of 90 .
+1	彼 は 92 歳 で 2012 年 に 死亡 し まし た 。	彼 は 92 歳 で 2012 年 に 死亡 し た 。	He died in 2012 at the age of 92 .
+1	彼 は カッパ シグマ の メンバー と なり まし た 。	彼 は Kappa Sigma の メンバー に なっ た 。	He became a member of Kappa Sigma .
+1	彼 は アルメニア 革命 連盟 によって 指名 さ れ まし た 。	彼 は アルメニア 革命 連盟 によって 指名 さ れ た 。	He was nominated by the Armenian Revolutionary Federation .
+1	彼 は 良い 子供  でし た 。	彼 は いい 子 だっ た よ 。	He was a good kid  .
+1	彼 は イギリス 海軍 の メンバー でし た 。	彼 は イギリス 海軍 の メンバー だっ た 。	He was a member of the British Navy .
+1	彼 は いくつ か の 書籍 の 著者 です 。	彼 は いくつ か の 本 の 著者 です 。	He is the author of several books .
+1	彼 は グラスゴー で 生まれ 、 ロンドン で 死亡 し まし た 。	彼 は グラスゴー で 生まれ 、 ロンドン で 死亡 し た 。	He was born in Glasgow and died in London .
+1	彼 は ザグレブ で ジャーナリスト として 働き 始め まし た 。	彼 は ザグレブ で ジャーナリスト として 働き 始め た 。	He began working as a journalist in Zagreb .
+1	彼 は シーズン の 終わり に NHL から 引退 し まし た 。	彼 は シーズン の 終わり に NHL から 引退 し た 。	He retired from the NHL at the end of the season .
+1	彼 は すぐ に マイナー リーグ に 送ら れ まし た 。	彼 は すぐ に マイナー リーグ に 送ら れ た 。	He was immediately sent to the minor leagues .
+1	彼 は また 、 その 年 共産党 に 参加 し まし た 。	彼 は その 年 に 共産党 に も 加わり まし た 。	He also joined the Communist Party that year .
+1	彼 は ニュルンベルク 裁判 で 終身 刑 を 宣告 さ れ まし た 。	彼 は ニュルンベルク 裁判 で 終身 刑 を 宣告 さ れ た 。	He was sentenced to life imprisonment at the Nuremberg trials .
+1	彼 は ノートルダム 大学 を 卒業 し まし た 。	彼 は ノートルダム 大学 を 卒業 。	He graduated from the University of Notre Dame .
+1	彼 は バイオリン を 演奏 し 、 奨学 金 を 授与 さ れ まし た 。	彼 は バイオリン を 演奏 し 、 奨学 金 を 授与 さ れ た 。	He played the violin and was awarded a scholarship .
+1	彼 は バンド の 最年少 メンバー です 。	彼 は バンド の 一番 若い メンバー です 。	He is the youngest member of the band .
+1	彼 は プラハ の 化学 技術 の 研究所 で 化学 を 学び まし た 。	彼 は プラハ の 化学 技術 研究所 で 化学 を 勉強 し まし た 。	He studied chemistry at the Institute of Chemical Technology in Prague .
+1	彼 は ボクシング に 集中 する ため に 学校 を 中退 し まし た 。	彼 は ボクシング に 集中 する ため に 学校 を 中退 し た 。	He dropped out of school to concentrate on boxing .
+1	彼 は また 、 エチオピア と ソマリア が 二 国 間 の 貿易 と 投資 を 増やす べき で ある と 提案 し まし た 。	彼 は また 、 エチオピア と ソマリア は 二 国 間 の 貿易 と 投資 を 増やす べき だ と 提案 し た 。	He also suggested that Ethiopia and Somalia should increase bilateral trade and investment .
+1	彼 は また 、 子供 の アーティスト として の 彼 の キャリア を スタート 。	彼 は また 、 子供 アーティスト として の キャリア を スタート し まし た 。	He also started his career as a child artist .
+1	彼 は また 、 月面 に 排尿 する 最初 の 人 でし た 。	彼 は また 、 月 に 最初 に 排尿 する 人 でし た 。	He was also the first person to urinate on the moon .
+1	彼 は まだ 4 位 で レース を 終える こと が でき まし た 。	彼 は まだ 4 位 で レース を 終える こと が でき た 。	He was still able to finish the race in 4th place .
+1	彼 は また 、 いくつ か の 重要 な 企業 の ディレクター でし た 。	彼 は また いくつ か の 重要 な 会社 の ディレクター でし た 。	He was also a director of several important companies .
+1	彼 は また 、 多作 の 作家 です 。	彼 は また 多作 な 作家 です 。	He is also a prolific writer .
+1	彼 は まだ 戦争 の 捕虜 でし た 。	彼 は まだ 戦争 の 捕虜 だっ た 。	He was still a prisoner of war .
+1	彼 は ラスベガス で 生まれ 育ち まし た 。	彼 は ラスベガス で 生まれ 育っ た 。	He was born and raised in Las Vegas .
+1	彼 は ルイ 14 世 の 治世 中 で 最も 重要 な 肖像 画家 の 一 人 でし た 。	彼 は ルイ 14 世 治世 時代 に 最も 重要 な 肖像 画家 の 一 人 でし た 。	He was one of the most important portrait painters during the reign of King Louis XIV .
+1	彼 は ロシア の 音楽 の 中 で 最も 著名 な アーティスト の 一 人 として 知ら れ て い ます 。	彼 は ロシア 音楽 の 最も 有名 な アーティスト の 一 人 として 知ら れ て い ます 。	He is known as one of the most prominent artists of Russian music .
+0	彼 は ロンドン の 大学 で 博士 研究 員 として 2 年間 働き まし た 。	彼 は ロンドン 大学 で ポスドク 研究 員 として 2 年間 働い て い た 。	He worked for two years as a postdoctoral fellow at the University of London .
+1	彼 は 上院 に 選出 さ れ て い ませ ん でし た 。	彼 は 上院 に 選出 さ れ なかっ た 。	He was not elected to the Senate .
+1	彼 は 保守党 の 支持 者 でし た 。	彼 は 保守党 の 支持 者 だっ た 。	He was a supporter of the Conservative Party .
+1	彼 は 保守党 の 支持 者 で あり ます	彼 は 保守党 の 支持 者 で ある	He is a supporter of the Conservative Party
+1	彼 は 保守党 の 支持 者 です 。	彼 は 保守党 の 支持 者 で ある 。	He is a supporter of the Conservative Party .
+1	彼 は 共和党 に 参加 し まし た 。	彼 は 共和党 に 加わっ た 。	He joined the Republican Party .
+1	彼 は 共和党 の メンバー でし た 。	彼 は 共和党 の 一員 だっ た 。	He was a member of the Republican Party .
+1	彼 は 共和党 の 支持 者 でし た 。	彼 は 共和党 の 支持 者 だっ た 。	He was a supporter of the Republican Party .
+1	彼 は 多く の 組織 の メンバー でし た 。	彼 は 多く の 組織 の 一員 でし た 。	He was a member of many organizations .
+1	彼 は また 、 女優 の ジンジャー ・ リン ・ アレン と の 関係 を 持っ て い まし た 。	彼 は 女優 の ジンジャー ・ リン ・ アレン と の 関係 も 持っ て い まし た 。	He also had a relationship with actress Ginger Lynn Allen .
+1	彼 は 彼 の 研究 を 完了 する ため に ベルリン に 戻り まし た 。	彼 は 彼 の 研究 を 完了 する ため に ベルリン に 戻っ た 。	He returned to Berlin to complete his studies .
+1	彼 は 日曜日 に 働く こと を 拒否 し まし た 。	彼 は 日曜日 に 仕事 を 拒ん だ 。	He refused to work on Sundays .
+1	彼 は 最初 の ソ連 の コンピュータ の 開発 に 携わっ て い まし た 。	彼 は 最初 の ソ連 の コンピュータ の 開発 に 携わっ て い た 。	He was involved in the development of the first Soviet computers .
+1	彼 が 最初 でし た 。	彼 は 最初 の 人 だっ た 。	He was the first .
+1	彼 は イースト・アングリア 大学 の 卒業生 です 。	彼 は 東 アングリア 大学 を 卒業 し て い ます 。	He is a graduate of the University of East Anglia .
+1	彼 は 原子核 物理 学 の 父 として 知ら れ て い ます 。	彼 は 核 物理 の 父 として 知ら れ て い ます 。	He is known as the father of nuclear physics .
+1	彼 は また 、 熱心 な テニス プレーヤー です 。	彼 は 熱心 な テニス 選手 で も あり ます 。	He is also an avid tennis player .
+0	彼 は 禅 仏教 の 実践 者 と なり まし た 。	彼 は 禅宗 の 開業医 と なっ た 。	He became a practitioner of Zen Buddhism .
+1	彼 は 自由党 の 大統領 に 選出 さ れ まし た 。	彼 は 自由党 の 大統領 に 選出 さ れ た 。	He was elected president of the Liberal Party .
+1	彼 は 近代 絵画 の 基礎 でし た 。	彼 は 近代 絵画 の 基盤 でし た 。	He was the foundation of modern painting .
+1	彼 が 選択 さ れ ませ ん でし た 。	彼 は 選ば れ なかっ た 。	He was not selected .
+1	彼 は 高校 の ジャズバンド で 演奏 し まし た 。	彼 は 高校 の ジャズバンド で 演奏 し た 。	He played in a high school jazz band .
+1	彼 は 鳥 の 保護 の ため の 王立 協会 の 創立 メンバー でし た 。	彼 は 鳥 の 保護 の ため の 王立 協会 の 創立 メンバー で あっ た 。	He was a founding member of the Royal Society for the Protection of Birds .
+1	彼ら の 主 な 目標 は 、 総合 的 な 犯罪 歴 を 提示 する こと です 。	彼ら の 第 一 の 目標 は 包括 的 な 犯罪 歴 を 提示 する こと です 。	Their primary goal is to present a comprehensive criminal history .
+1	彼ら は 1965 年 に 結婚 し 、 1981 年 に 離婚 し まし た 。	彼ら は 1965 年 に 結婚 し 、 1981 年 に 離婚 し た 。	They married in 1965 and divorced in 1981 .
+1	彼ら は 1981 年 に 結婚 し 、 1984 年 に 離婚 し まし た 。	彼ら は 1981 年 に 結婚 し 、 1984 年 に 離婚 し た 。	They married in 1981 and divorced in 1984 .
+1	彼ら は 1989 年 に 結婚 し 、 1994 年 に 離婚 し まし た 。	彼ら は 1989 年 に 結婚 し 、 1994 年 に 離婚 し た 。	They married in 1989 and divorced in 1994 .
+1	彼ら は 2001 年 の 夏 に 解散 し まし た 。	彼ら は 2001 年 の 夏 に 解散 し た 。	They broke up in the summer of 2001 .
+1	彼ら は ツアー の 最後 に 離婚 し まし た 。	彼ら は ツアー の 最後 に 離婚 し た 。	They divorced at the end of the tour .
+1	これら は 、 ホーチミン によって 導か れ まし た 。	彼ら は ホーチミン が 率い た 。	They were led by Ho Chi Minh .
+0	彼ら は 、 次 の とおり です 。	彼ら は 以下 を 含む ：	They include :
+1	これら は 、 合成 皮革 など の 代替 材料 の 使用 を 奨励 し ます 。	彼ら は 合成 皮革 の よう な 代替 材料 の 使用 を 奨励 し て い ます 。	They encourage the use of alternative materials such as synthetic leathers .
+1	彼ら は 、 地方自治体 の ステータス を 持っ て い ませ ん 。	彼ら は 地方自治体 の 地位 を 持っ て い ない 。	They do not have the status of local authority .
+1	彼ら は 販売 し て い ませ ん でし た 。	彼ら は 売ら なかっ た 。	They did not sell .
+1	彼ら は 後 に メキシコ 湾 で 救出 さ れ まし た 。	彼ら は 後で メキシコ 湾 で 救助 さ れ た 。	They were later rescued in the Gulf of Mexico .
+1	それら は 以下 の 通り 分類 さ れ ます 。	彼ら は 次 の よう に 分かれ て い ます ：	They are divided as follows :
+1	彼ら は 米国 に 来 て 、 オハイオ 州 に 定住 し まし た 。	彼ら は 米国 に 来 て 、 オハイオ に 定住 し まし た 。	They came to the United States and settled in Ohio .
+1	彼ら は 、 その 鋭い 歯 と 強力 な 顎 の ため に 知ら れ て い ます 。	彼ら は 鋭い 歯 と 強力 な 顎 で 知ら れ て い ます 。	They are known for their sharp teeth and powerful jaws .
+1	彼女 の 母親 は 戦争 で 4 人 の 兄弟 を 失い まし た 。	彼女 の 母親 は 戦争 で 4 人 の 兄弟 を 失っ た 。	Her mother lost four brothers in the war .
+1	彼女 の 父 は エンジニア で あり 、 彼女 の 母 は 教師 です 。	彼女 の 父親 は エンジニア で あり 、 彼女 の 母親 は 先生 です 。	Her father is an engineer and her mother is a teacher .
+1	彼女 の 父 は 建設 労働 者 で あり 、 彼女 の 母親 は 秘書 です 。	彼女 の 父親 は 建設 労働 者 で 、 彼女 の 母親 は 秘書 です 。	Her father is a construction worker and her mother is a secretary .
+1	彼女 は 14 歳 で 演技 を 始め まし た 。	彼女 は 14 歳 で 演技 を 始め た 。	She began acting at the age of 14 .
+1	彼女 は 19 歳 の 時 に ロサンゼルス に 移動 し まし た 。	彼女 は 19 歳 で ロサンゼルス に 移り まし た 。	She moved to Los Angeles at the age of 19 .
+1	彼女 は 1921 年 以来 、 オクラホマ 州 から 連邦 議会 に 選出 さ れ た 最初 の 女性 です 。	彼女 は 1921 年 以来 オクラホマ 州 から 議会 に 選出 さ れ た 最初 の 女性 です 。	She is the first woman elected to Congress from Oklahoma since 1921 .
+1	彼女 は 1950 年代 レズビアン として 出 て き まし た 。	彼女 は 1950 年代 に レズビアン として 出 て き まし た 。	She came out as a lesbian in the 1950s .
+1	彼女 は 1979 年 に 26 歳 で 癌 で 死亡 し まし た 。	彼女 は 1979 年 に 26 歳 で 癌 で 亡くなり まし た 。	She died of cancer at the age of 26 in 1979 .
+1	彼女 は 1987 年 から 1998 年 まで 弁護士 として 働い て い まし た 。	彼女 は 1987 年 から 1998 年 まで 弁護士 として 働い た 。	She worked as a lawyer from 1987 to 1998 .
+1	彼女 は 女優 に なる ため に 1995 年 に グループ を 去り まし た 。	彼女 は 1995 年 に 女優 に なる ため に グループ を 去っ た 。	She left the group in 1995 to become an actress .
+1	彼女 は アンカラ で 生まれ 育ち まし た 。	彼女 は アンカラ で 生まれ 育っ た 。	She was born and raised in Ankara .
+1	彼女 は シラキュース の 初 の 女性 市長 です 。	彼女 は シラキュース の 最初 の 女性 市長 です 。	She is the first female mayor of Syracuse .
+1	彼女 は すぐ に ブロードウェイ で ダンサー として 働き 始め まし た 。	彼女 は すぐ に ブロードウェイ で ダンサー として 働き 始め た 。	She soon began working as a dancer on Broadway .
+0	彼女 は スペイン 語 圏 全体 で 雑誌 や 新聞 に 数 百 も の 記事 を 発表 し まし た 。	彼女 は スペイン 語 圏 の 世界 全体 で 雑誌 や 新聞 に 数 百 点 の 記事 を 掲載 し まし た 。	She published hundreds of articles in magazines and newspapers throughout the Spanish-speaking world .
+1	彼女 は バンド の 最年少 メンバー です 。	彼女 は バンド の 一番 若い メンバー です 。	She is the youngest member of the band .
+1	彼女 は フォートピアス に 移動 し まし た 。	彼女 は フォートピアス に 移っ た 。	She moved to Fort Pierce .
+1	彼女 は また 、 スウェーデン の 経済 学 の 初 の 女性 教授 でし た 。	彼女 は また スウェーデン の 経済 学 の 最初 の 女性 教授 でし た 。	She was also the first female professor of economics in Sweden .
+1	彼女 は 上院 を 主宰 する 最初 の 女性 でし た 。	彼女 は 上院 議長 を 務める 最初 の 女性 だっ た 。	She was the first woman to preside over the Senate .
+1	彼女 は 、 交換 留学生 として ニューヨーク に 行き 、 マンハッタン の 親戚 と 一緒 に 住ん で い まし た 。	彼女 は 交換 留学生 として ニューヨーク に 行き 、 マンハッタン の 親戚 と 一緒 に 暮らし まし た 。	She went to New York as an exchange student and lived with relatives in Manhattan .
+0	彼女 は 売春 と 人身 売買 に関する 多数 の 記事 を 公開 し て い ます 。	彼女 は 売春 と 性的 人身 売買 に関する 多数 の 記事 を 発表 し て いる 。	She has published numerous articles on prostitution and sex trafficking .
+1	彼女 は 後 に 高校 の 英語 教師 として 働い て い まし た 。	彼女 は 後 に 高校 の 英語 教師 として 働い た 。	She later worked as a high school English teacher .
+1	彼女 は また 、 歌手 です 。	彼女 は 歌手 で も ある 。	She is also a singer .
+0	彼女 は 絵 の よう に 美しい 山 の 村 で 育ち まし た 。	彼女 は 美しい 山 の 村 で 育っ た 。	She grew up in a picturesque mountain village .
+1	心配 する こと は 何 も あり ませ ん 。	心配 する こと は あり ませ ん 。	There is nothing to worry .
+1	戦争 が 次 の 日 に 終了 し まし た 。	戦争 は 翌日 終わっ た 。	The war ended the following day .
+1	政府 が 敗北 を 避ける ため に 譲歩 を 余儀なく さ れ まし た 。	政府 は 敗北 を 避ける ため に 譲歩 を 余儀なく さ れ た 。	The government was forced to make concessions to avoid defeat .
+1	政治 情勢 が 不安定 でし た 。	政治 状況 は 不安定 だっ た 。	The political situation was unstable .
+1	教区 教会 は 、 バックグラウンド で はっきり と 見え まし た 。	教区 教会 は 、 バックグラウンド で はっきり 見え まし た 。	The parish church was clearly visible in the background .
+1	教皇 ヨハネ・パウロ二世 は こう 書い て い ます 。	教皇 ヨハネ ・ パウロ 2 世 は こう 書い た ：	Pope John Paul II wrote :
+1	多数 の ヒト および 動物 の 骨 も 同様 に 発見 さ れ まし た 。	数 多く の 人間 や 動物 の 骨 も 見つかっ た 。	Numerous human and animal bones were found as well .
+1	新た な 証拠 は 示さ れ ませ ん でし た 。	新しい 証拠 は 明らか に さ れ なかっ た 。	No new evidence was revealed .
+1	方法 は 以下 の 通り です ：	方法 は 次 の とおり です 。	The method is as follows :
+0	300 人 以上 の 警察官 は 暴動 の 際 に けが を し まし た 。	暴動 中 に 300 人 以上 の 警察官 が 傷つい た 。	More than 300 police officers were hurt during the riot .
+1	最も 人気 の ある 祭り の 一部 を 以下 に 示し ます 。	最も 人気 の ある お 祭り の いくつ か は 次 の とおり です ：	Some of the most popular festivals include :
+1	最大 の 変化 は 、 エンジン に あり まし た 。	最も 大きな 変化 は エンジン に対する もの でし た 。	The biggest change was to the engine .
+1	最初 の 2 つ の 製品 が この 地域 で 最も 重要 です 。	最初 の 2 つ の 製品 は 、 この 地域 で 最も 重要 です 。	The first two products are the most important in the region .
+1	最初 の ロデオ は 、 2003 年 2 月 に 競技 場 で 開催 さ れ まし た 。	最初 の ロデオ は 2003 年 2 月 に スタジアム で 開催 さ れ まし た 。	The first rodeo was held in the stadium in February 2003 .
+1	最初 の 法律 や 規制 は 、 16 世紀 と 17 世紀 に 公布 さ れ まし た 。	最初 の 法律 および 規則 は 16 世紀 および 17 世紀 に 公布 さ れ まし た 。	The first laws and regulations were promulgated in the 16th and 17th centuries .
+1	望遠鏡 は 2003 年 春 に 完成 し まし た 。	望遠鏡 は 2003 年 の 春 に 完成 し まし た 。	The telescope was completed in the spring of 2003 .
+0	リー は 、 6 週間 の 禁固刑 を 言い渡さ れ まし た 。	李 容疑 者 は 6 週間 の 懲役 刑 を 言い渡さ れ た 。	Lee was sentenced to six weeks ' imprisonment .
+1	歌詞 は 、 曲 の オリジナル バージョン から 変更 さ れ ない まま です 。	歌詞 は 元 の バージョン の 曲 と 変わり ませ ん 。	The lyrics remain unchanged from the original version of the song .
+1	正確 な 規則 は 、 参加 者 の 数 と 利用 可能 な スペース に 基づい て 異なり ます 。	正確 な ルール は 、 参加 者 の 数 と 利用 可能 な スペース に 基づい て 異なり ます 。	The exact rules will vary based on the number of participants and the available space .
+1	名前 の 起源 について 歴史 家 の 間 で コンセンサス は あり ませ ん 。	歴史 家 の 中 に は 、 その 名前 の 由来 について の コンセンサス は ない 。	There is no consensus among historians about the origin of the name .
+1	死 海 の 近く に いくつ か の 小さな コミュニティ が あり ます 。	死 海 の 近く に は いくつ か の 小さな コミュニティ が あり ます 。	There are several small communities near the Dead Sea .
+1	残り の 人口 の ほとんど が 高齢 者 です 。	残り の 人口 の ほとんど は 高齢 者 です 。	Most of the remaining population is elderly .
+0	50 人 以上 は 、 その 浸水 家屋 から 救出 さ れ まし た 。	水没 し た 家 から 50 人 以上 が 救助 さ れ た 。	More than 50 people were rescued from their flooded homes .
+1	火 は わずか 9 分 で メイン スタンド を 破壊 し まし た 。	火災 は わずか 9 分 で メイン スタンド を 破壊 し た 。	The fire destroyed the main stand in just nine minutes .
+1	爆弾 の 一つ が 爆発 し ませ ん でし た 。	爆弾 の 1 つ は 爆発 し なかっ た 。	One of the bombs did not explode .
+1	今 で は 市内 で 二 番目 に 大きい 産業 です 。	現在 、 この 都市 で は 第 二 の 産業 と なっ て い ます 。	It is now the second largest industry in the city .
+1	現在 の バージョン は 、 2004 年 に 採択 さ れ まし た 。	現在 の バージョン は 2004 年 に 採用 さ れ まし た 。	The current version was adopted in 2004 .
+1	生存 者 の 総数 は 不明 です 。	生存 者 の 総数 は 不明 で ある 。	The total number of survivors is unknown .
+0	どちら も 生物 学 的 および 環境 的 要因 が 役割 を 果たし て いる と 思わ れ ます 。	生物 学 的 および 環境 的 要因 の 両方 が 役割 を 果たす よう で ある 。	Both biological and environmental factors appear to play a role .
+1	町 の 中心 部 に ある 多く の 建物 は 、 時代 の スタイル を 反映 し て い ます 。	町 の 中心 に ある 多く の 建物 は 時代 の 様式 を 反映 し て い ます 。	Many buildings in the center of the town reflect the style of the era .
+0	イメージ が 明確 です 。	画像 は クリア です 。	The image is clear .
+1	私 は 知ら ない 。	知り ませ ん 。	I do not know .
+0	頭 が 回っ て い ます 。	私 の 頭 は 回転 し て いる 。	My head is spinning .
+1	私 は これ に 同意 し ませ ん ...	私 は これ に 同意 し ない ...	I do not agree with this ...
+1	それ は 信じ られ ない よ 。	私 は これ を 信じる こと が でき ない 。	I can not believe this .
+1	私 は 実際 に 空中 を 飛行 し たかっ た です 。	私 は 本当に 空 を 飛び たい と 思っ て い まし た 。	I really wanted to fly through the air .
+1	第 一 段階 は 、 スクリーニング 検査 です 。	第 一 段階 は スクリーニング テスト です 。	The first stage is the screening test .
+1	米国 および 西欧	米国 と 西 ヨーロッパ	The United States and Western Europe
+0	米国 は 1819 年 に スペイン から フロリダ を 獲得 し まし た 。	米国 は 1819 年 に スペイン から フロリダ を 買収 し た 。	The United States acquired Florida from Spain in 1819 .
+1	米国 は 1867 年 に ロシア から アラスカ を 購入 し まし た 。	米国 は 1867 年 に ロシア から アラスカ を 購入 し た 。	The United States purchased Alaska from Russia in 1867 .
+1	米国 の 西海岸 最大 の 都市 は ロサンゼルス です 。	米国 西海岸 で 最大 の 都市 は ロサンゼルス です 。	The largest city on the west coast of the United States is Los Angeles .
+1	推定 40 万 人 は 、 リンカーン 記念 館 で の コンサート に 出席 し まし た 。	約 40 万 人 が リンカーン 記念 館 で の コンサート に 出席 し た 。	An estimated 400,000 people attended the concert at the Lincoln Memorial .
+1	結果 は 以下 の 通り で あり ます ：	結果 は 次 の とおり です 。	The results are as follows :
+1	結果 を 以下 の 表 に まとめ ます 。	結果 を 以下 の 表 に まとめる 。	The results are summarized in the table below .
+1	緊急 の 状態 は メディナ や アラビア で 宣言 さ れ まし た 。	緊急 事態 が メデ ​​ ィナ と アラビア で 宣言 さ れ た 。	A state of emergency was declared in Medina and Arabia .
+1	市 は 活気 に 満ち た 現代 アート シーン を 持っ て い ます 。	街 に は 活気 の ある 現代 アート シーン が あり ます 。	The city has a vibrant contemporary art scene .
+1	複合 体 は 、 高い 壁 で 保護 さ れ て い ます 。	複合 体 は 高い 壁 によって 保護 さ れ て い ます 。	The complex is protected by high walls .
+1	それ を 見つける の は 大変 でし た 。 	見つけ にくかっ た です 。 	It was hard to find . 
+1	観光 は 今 重要 な 収入 源 です 。	観光 は 今や 重要 な 収入 源 です 。	Tourism is now an important source of income .
+1	いずれ も 、 精神 疾患 の 病歴 を 有し て い ませ ん でし た 。	誰 も 精神病 の 病歴 は なかっ た 。	None had a history of mental illness .
+1	車 は ラテンアメリカ の 他 の 市場 に 輸出 さ れ まし た 。	車 は ラテンアメリカ の 他 の 市場 に 輸出 さ れ た 。	The car was exported to other markets in Latin America .
+0	軍 は  引き継ぎ ます 。	軍隊 が 引き継ぐ だろ う 。	The army will take over  .
+1	また 、 輸出 収益 の 主要 な 源 です 。	輸出 収入 の 主要 な 源泉 で も あり ます 。	It is also a major source of export earning .
+1	近隣 の カンボジア と ラオス の 共産 主義 の 勝利 は 、 同じ 年 に 発生 し まし た 。	近隣 の カンボジア と ラオス で の 共産党 の 勝利 は 同じ 年 に 発生 し た 。	Communist victories in neighboring Cambodia and Laos occurred in the same year .
+1	遅延 は 長く は 続き ませ ん でし た 。	遅れ は 長続き し なかっ た 。	The delay did not last for long .
+0	はるか 南 で は 、 冬 と 春 に その 葉 を 失う 落葉樹 が あり ます 。	遠い 南部 に は 、 冬 と 春 に 葉 を 失う 落葉樹 が あり ます 。	In the far south , there are deciduous trees that lose their leaves in winter and spring .
+0	彼 の 選挙 の 時 に は 、 キム は 国民 議会 の 最年少 メンバー でし た 。	選挙 当時 、 金 議長 は 国会 の 最年少 メンバー だっ た 。	At the time of his election , Kim was the youngest member of the national assembly .
+1	降雪 は 、 冬 の 間 は 一般 的 です 。	降雪 は 冬季 に よく 見 られ ます 。	Snowfall is common during the winter months .
+0	電気 は ゴールデン バレー 電気 協会 によって 提供 さ れ て い ます 。	電力 は ゴールデン バレー 電気 協会 によって 提供 さ れ て い ます 。	Electricity is provided by the Golden Valley Electric Association .
+1	風速 を 超え た 場合 に 、 塔 の 頂 部 は 、 安全 予防 措置 として 閉鎖 さ れ ます 。	風速 が 超過 する と 、 タワー の 上部 が 安全 対策 として 閉じ られ ます 。	If the wind speed exceeds , the top of the tower is closed as a safety precaution .
+0	内閣 総理 大臣 は 、 国会 を 解散 する こと が でき ます 。	首相 は クネセト を 解散 さ せる かも しれ ない 。	The Prime Minister may dissolve the Knesset .
+1	首相 は 、 各 総 選挙 の 後 に 共和 国 大統領 により 任命 さ れ ます 。	首相 は 各 総 選挙 の 後 、 共和 国 大統領 によって 任命 さ れる 。	The prime minister is appointed by the President of the Republic after each general election .
+1	首相 は 大統領 によって 任命 さ れ ます 。	首相 は 大統領 によって 任命 さ れる 。	The prime minister is appointed by the president .
+1	香港 国際 空港 は 、 香港 の 主要 な 空港 です 。	香港 国際 空港 は 香港 の 主要 空港 です 。	Hong Kong International Airport is the main airport in Hong Kong .
+1	多く の 魚 や チップ ショップ も あり ます 。	魚 や チップ ショップ も 多く あり ます 。	There are also many fish and chip shops .
+-1	1994年 に 引退 を 表明 し た 。	3月1日 に 引退 を 表明 し た 。	
+-1	しかし 、 これ は 誤り で ある 。	しかし 、 これ は 嘘 で ある 。	
+-1	卒業 後 は 日本通運 に 入社 。	卒業 後 は バンダイ に 入社 。	
+-1	特技 は ダンス 、 ボクシング 。	特技 は 歌唱 、 ダンス 。	
+-1	匸部 （ け いぶ ） は 、 漢字 を 部首 により 分類 し た グループ の 一つ 。	部 （ て つぶ ） は 、 漢字 を 部首 により 分類 し た グループ の 一つ 。	
+-1	旧港 と も 呼ば れる 。	日興門流 と も 呼ば れる 。	
+-1	同年 、 家老 と なる 。	同年 尾張藩 家老 と なる 。	
+-1	1889年 （ 明治 22年 ） 町村制 の 施行 により 平貴村 大字 上条 と なる 。	1889年 （ 明治 22年 ） 町村制 施行 により 平塚 村 の 大字 と なる 。	
+-1	食性 は 植物 食 傾向 の 強い 雑食 で 、 植物 の 葉 、 根 、 果実 、 種子 、 昆虫 など を 食べる 。	食性 は 植物 食 傾向 の 強い 雑食 で 、 種子 、 プランクトン 、 昆虫 、 軟体動物 、 魚類 など を 食べる 。	
+-1	表示 は 以下 の 通り 。	経歴 は 以下 の 通り 。	
+-1	愛称 は 「 オパールズ 」 。	愛称 は 「 まさお 」 。	
+-1	ボルツァーノ自治県 西部 に 位置 する 。	荒川区 西部 に 位置 する 。	
+-1	現在 の 大垣市小野 など に 該当 する 。	現在 の 瑞穂市十九条 など に 該当 する 。	
+-1	鳴門市 の 南部 に 位置 する 。	東京都八王子市 の 南部 に 位置 する 。	
+-1	ミスターシービー は 日本 の 競走馬 。	シービークイン は 日本 の 競走馬 。	
+-1	これ が 時効 で ある 。	これ が 守護代 で ある 。	
+-1	これ が 日本海寒帯気団収束帯 で ある 。	これ が モンロー/ノイマン効果 で ある 。	
+-1	アメリカ領サモア の 空港 の 一覧 を 示す 。	シリア の 空港 の 一覧 を 示す 。	
+-1	これ が 餌付け で ある 。	これ が 耐性 で ある 。	
+-1	ターミナル と も 呼ば れる 。	ガイアス と も 呼ば れる 。	
+-1	北陸鉄道 が 運営 し て いる 。	オーエス が 運営 し て いる 。	
+-1	特定第3種漁港 に 指定 さ れ て いる 。	地方港湾 に 指定 さ れ て いる 。	
+-1	この 近似 に は 以下 の よう な 理由 が ある 。	それ に は 、 以下 の よう な 理由 が ある 。	
+-1	入団 時 の 成績 は 2 番 。	入団 時 の 成績 は 29 番 。	
+-1	カンボジア語 と も 呼ば れる 。	ABC分析 と も 呼ば れる 。	
+-1	腰巻 と も 呼ば れる 。	飛翔弾 と も 呼ば れる 。	
+-1	女性 100人 ごと に対して 男性 は 103 . 4人 で ある 。	女性 100人 ごと に対して 男性 は 98 . 70人 で ある 。	
+-1	1912年 （ 大正 元年 ） 、 海軍大将 。	1912年 （ 大正 元年 ） 、 完成 。	
+-1	略称 は 「 統一党 」 。	略称 は 「 サンアリーナ 」 。	
+-1	この 時代 の 天皇 は 桜町天皇 。	この 時代 の 天皇 は 光仁天皇 。	
+-1	これ が ワーテルローの戦い で ある 。	これ が 碧蹄館の戦い で ある 。	
+-1	駅舎 は 伊勢崎 方面 ホーム 側 に あり 、 各 ホーム 間 は 跨線橋 により 連絡 し て いる 。	駅舎 は 船橋 方面 ホーム 側 に あり 、 大宮 方面 ホーム と は 跨線橋 により 連絡 し て いる 。	
+-1	市内 を イーザル 川 が 流れる 。	市内 を アニエーネ 川 が 流れる 。	
+-1	トド岩 と も 呼ば れる 。	ドアチャイム と も 呼ば れる 。	
+-1	趣味 は 、 読書 、 映画鑑賞 。	趣味 は 読書 、 書道 。	
+-1	住宅地 に 隣接 し て いる 。	さいたま市北区 に 隣接 し て いる 。	
+-1	詳しく は 富山の売薬 を 参照 。	詳しく は 気候変動 を 参照 。	
+-1	2002年 の センサス に よれ ば 、 15歳 以上 の 国民 の 識字率 は 87% で ある 。	2001年 の センサス に よれ ば 、 15歳 以上 の 国民 の 識字率 は 80% で ある 。	
+-1	用例 は 以下 の 通り 。	誤差関数 は 以下 の 通り 。	
+-1	2012年 11月 、 WBA 世界 スーパーライト級 暫定王座 を 剥奪 さ れ た 。	2012年 、 WBA 女子 世界 スーパーフェザー級 暫定王座 を 剥奪 さ れ た 。	
+-1	サッソ・マルコーニ に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	ロンコフレッド に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	北海道 内 における 東川町 の 位置 を 示し た 図 。	北海道 内 における 富良野市 の 位置 を 示し た 図 。	
+-1	1994年 1月1日 に ビクター エンタテインメント から 発売 さ れ た 。	1996年 1月1日 に ビクター エンタテインメント から 発売 さ れ た 。	
+-1	林田健司 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	今井寿 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	長崎県佐世保市 に関する 画像 が 、 まとめ られ て い ます 。	愛知環状鉄道 に関する 画像 が 、 まとめ られ て い ます 。	
+-1	ウォータクティクス と は 日本 の 競走馬 で ある 。	トキツカゼ と は 日本 の 競走馬 で ある 。	
+-1	「 ローリング・ストーン の 選ぶ 歴史 上 最も 偉大 な 100 組 の アーティスト 」 において 第 100位 。	「 ローリング・ストーン の 選ぶ 歴史 上 最も 偉大 な 100 組 の アーティスト 」 において 第 7位 。	
+-1	この 表 は 、 うお座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	この 表 は 、 こと座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	
+-1	従四位 、 勲 三 等 旭日中綬章 を 受章 。	1973年 、 勲 三 等 旭日中綬章 を 受章 。	
+-1	本 項 で は 、 以降 は 『 ダブルスポイラー 』 と 称する こと と する 。	本 項 で は 、 以降 は 『 非想天則 』 と 称する こと と する 。	
+-1	北海道 内 における 足寄町 の 位置 を 示し た 図 。	北海道 内 における 音別町 の 位置 を 示し た 図 。	
+-1	トータス松本 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	宮沢和史 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	奈良学園大学 の 人物 一覧 は 奈良学園大学 に 関係 する 人物 の 一覧 記事 。	東京国際大学 の 人物 一覧 は 東京国際大学 に 関係 する 人物 の 一覧 記事 。	
+-1	北海道 内 における 生田原町 の 位置 を 示し た 図 。	北海道 内 における 大滝村 の 位置 を 示し た 図 。	
+-1	西経43度線 は 、 北極点 から 南極点 まで 南 に 向かっ て 以下 の 場所 を 通っ て いる 。	西経131度線 は 、 北極点 から 南極点 まで 南 に 向かっ て 以下 の 場所 を 通っ て いる 。	
+-1	2005年 7月10日 に 投稿者 が 舞浜駅 にて 撮影 。	2005年 7月10日 に 投稿者 が 安食駅 にて 撮影 。	
+-1	1942年 7月 、 奈良県知事 に 就任 し 、 戦時下 の 対応 に 尽力 。	1942年 7月 、 高知県知事 に 就任 し 、 戦時下 の 対応 に 尽力 。	
+-1	阿久津健太郎 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	杉山勝彦 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	かつて は 夏木プロダクション に 所属 し て い た 。	かつて は ホリエージェンシー に 所属 し て い た 。	
+-1	2016年 現在 、 大阪拘置所 に 収監 さ れ て いる 。	2016年 現在 、 名古屋拘置所 に 収監 さ れ て いる 。	
+-1	広川 の 死後 、 持ち 役 を 引き継い だ 人物 は 以下 の 通り 。	小池 の 死後 、 持ち 役 を 引き継い だ 人物 は 以下 の 通り 。	
+-1	腹膜刺激症状 に は 以下 の もの が ある 。	ドメラ に は 以下 の もの が ある 。	
+-1	高萩市 が 運営 管理 を 行っ て いる 。	日南市 が 運営 管理 を 行っ て いる 。	
+-1	高校 時代 は 新聞部 に 所属 し て い た 。	高校 時代 に は バレーボール部 に 所属 し て い た 。	
+-1	跡 を 養子 の 信敬 が 継い だ 。	跡 を 養子 の 政和 が 継い だ 。	
+-1	高萩市 が 運営 管理 を 行っ て いる 。	久米島町 が 運営 管理 を 行っ て いる 。	
+-1	葉山拓亮 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	浜口庫之助 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	北海道 内 における 蘭越町 の 位置 を 示し た 図 。	北海道 内 における 留萌市 の 位置 を 示し た 図 。	
+-1	現行 行政 地名 は 川岸 一丁目 から 三丁目 。	現行 行政 地名 は 自由が丘 一丁目 から 自由が丘 三丁目 。	
+-1	詳しく は 医局 を 参照 さ れ たい 。	詳しく は 符号付数値表現 を 参照 さ れ たい 。	
+-1	ホーマック が 管理 ・ 運営 し て いる 。	神戸市 が 管理 ・ 運営 し て いる 。	
+-1	実務 は 豊原 連隊区司令部 が 執行 し た 。	実務 は 京都 連隊区司令部 が 執行 し た 。	
+-1	兵庫教育大学 の 人物 一覧 は 兵庫教育大学 に 関係 する 人物 の 一覧 記事 。	福岡工業大学 の 人物 一覧 は 福岡工業大学 に 関係 する 人物 の 一覧 記事 。	
+-1	続く ダービー卿チャレンジトロフィー で は 終始 後方 の まま 12 着 と 大敗 し た 。	続く カペラステークス で は 終始 後方 の まま 12 着 と 大敗 し た 。	
+-1	廃止 さ れ た 幼稚園 について は 北海道 幼稚園 の 廃園 一覧 を 参照 。	廃止 さ れ た 幼稚園 について は 香川県 幼稚園 の 廃園 一覧 を 参照 。	
+-1	北海道 内 における 置戸町 の 位置 を 示し た 図 。	北海道 内 における 幌加内町 の 位置 を 示し た 図 。	
+-1	主 に アダルトゲーム を 中心 に 活動 し て いる 。	主 に 日本国内 を 中心 に 活動 を し て いる 。	
+-1	北川悠仁 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	坂井泉水 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	ローディ に は 、 以下 の 分離集落 （ フラツィオーネ ） が ある 。	フォシャンドラ に は 、 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	東京都日の出町 で は 町 の 天然記念物 に 指定 さ れ て いる 。	隠岐の島町 で は 町 の 天然記念物 に 指定 さ れ て いる 。	
+-1	西経109度線 は 、 北極点 から 南極点 まで 南 に 向かっ て 以下 の 場所 を 通っ て いる 。	東経18度線 は 、 北極点 から 南極点 まで 南 に 向かっ て 以下 の 場所 を 通っ て いる 。	
+-1	天文 観測 ファン として 会社員 時代 に 西山 と 知り合い 、 親交 を 深め た 。	天文 観測 ファン として 会社員 時代 に 椛島 と 知り合い 、 親交 を 深め た 。	
+-1	ポンパーノ は 第二次世界大戦 の 戦功 で 7 個 の 従軍 星章 を 受章 し た 。	タスカルーサ は 第二次世界大戦 の 戦功 で 7 個 の 従軍 星章 を 受章 し た 。	
+-1	かつて は 前進座 に 所属 し て い た 。	かつて は オスカープロモーション に 所属 し て い た 。	
+-1	北海道 内 における 登別市 の 位置 を 示し た 図 。	北海道 内 における 新十津川町 の 位置 を 示し た 図 。	
+-1	以下 は 、 メジャーリーグベースボール （ MLB ） における 1949年 の でき ごと を 記す 。	以下 は 、 メジャーリーグベースボール （ MLB ） における 1910年 の でき ごと を 記す 。	
+-1	長野県 小県郡 赤坂村 （ 現 上田市 ） 生まれ 。	長野県 小県郡 武石村 （ 現 上田市 ） 生まれ 。	
+-1	志倉千代丸 が 作詞 ・ 作曲 を 手掛け た 。	川嶋あい が 作詞 ・ 作曲 を 手掛け た 。	
+-1	長母音 を 省略 し て オレステス とも 表記 さ れる 。	長母音 を 省略 し て ペリペテス とも 表記 さ れる 。	
+-1	渥美線 の 近年 の 営業 成績 を 下表 に 記す 。	江ノ島電鉄線 の 近年 の 営業 成績 を 下表 に 記す 。	
+-1	アムトラック の パラトカ 駅 に 発着 する 列車 は 下記 の 通り 。	アムトラック の サクラメント・バレー 駅 に 発着 する 列車 は 下記 の 通り 。	
+-1	ブレッサノーネ に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	パッラーノ に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	本 項目 で は マルタ の イスラム教 について 記述 する 。	本 項目 で は ベトナム の イスラム教 について 記述 する 。	
+-1	カステッランマーレ・ディ・スタービア に は 、 以下 の 分離集落 （ フラツィオーネ ） が ある 。	メル に は 、 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	バレーボール モーリシャス 男子 代表 は 、 バレーボール の 国際大会 で 編成 さ れる モーリシャス の 男子 バレーボール ナショナルチーム で ある 。	バレーボール シンガポール 男子 代表 は 、 バレーボール の 国際大会 で 編成 さ れる シンガポール の 男子 バレーボール ナショナルチーム で ある 。	
+-1	バルレッタ に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	ネー に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	チーム の 地区優勝 に 大きく 貢献 し た 。	チーム の 準優勝 に 大きく 貢献 し た 。	
+-1	跡 を 弟 で 養子 の 豊明 が 継い だ 。	跡 を 弟 で 養子 の 忠紀 が 継い だ 。	
+-1	長母音 を 省略 し て コオン とも 表記 さ れる 。	長母音 を 省略 し て アグライア とも 表記 さ れる 。	
+-1	サンセード は ポンフェラーダ 司法 管轄 区 に 属す 。	コンゴスト は ポンフェラーダ 司法 管轄 区 に 属す 。	
+-1	卒業 後 は 九州電力 に 入社 し た 。	卒業 後 は 日新製鋼 に 入社 し た 。	
+-1	単行本 は 同社 の 花とゆめコミックス から 全 2 巻 。	単行本 は 同社 の りぼんマスコットコミックス から 全 2 巻 。	
+-1	これ が グループ 名 の 由来 で ある 。	これ が ヒトヨタケ の 名 の 由来 で ある 。	
+-1	広島県 の 史跡 に 指定 さ れ て いる 。	千葉県 の 史跡 に 指定 さ れ て いる 。	
+-1	相対 式 ホーム 2 面 1 線 の 無人駅 。	島 式 ホーム 1 面 2 線 の 無人駅 。	
+-1	長母音 を 省略 し て ドロン とも 表記 さ れる 。	長母音 を 省略 し て オイクレス とも 表記 さ れる 。	
+-1	高崎市 指定 史跡 に 指定 さ れ て いる 。	城陽市 指定 史跡 に 指定 さ れ て いる 。	
+-1	韓国 の 鉄道 駅 の うち 、 ぬ で 始まる もの 。	韓国 の 鉄道 駅 の うち 、 け で 始まる もの 。	
+-1	小椋佳 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	長戸大幸 が 作詞 か 作曲 、 もしくは その 両方 を 手がけ た 楽曲 。	
+-1	バディーア に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	コモ に は 以下 の 分離集落 （ フラツィオーネ ） が ある 。	
+-1	長男 ・ 稙昌 が 跡 を 継い だ 。	跡 を 長男 ・ 義成 が 継い だ 。	
+-1	さらに 4月9日 に も 爆弾 が 命中 し た 。	さらに キプリング に も 爆弾 が 命中 し た 。	
+-1	杭 や 樹木 など に 青色 の 点々 を 描い て 示し て いる こと も ある 。	杭 や 樹木 など に 黄色 の 点々 を 描い て 示し て いる こと も ある 。	
+-1	この 分野 の 内容 それ 自体 について は 社会保障法 を 参照 。	この 分野 の 内容 それ 自体 について は 法制史 を 参照 。	
+-1	町内 に 鉄道 は 走っ て い ない 。	市内 に 鉄道 は 走っ て い ない 。	
+-1	北海道 内 における 大野町 の 位置 を 示し た 図 。	北海道 内 における 増毛町 の 位置 を 示し た 図 。	
+-1	近鉄四日市駅 の 利用 状況 の 変遷 を 下表 に 示す 。	千里駅 の 利用 状況 の 変遷 を 下表 に 示す 。	
+-1	吉田村 （ よし だむ ら ） は 、 かつて 岐阜県 恵那郡 に あっ た 村 で ある 。	吉田村 （ よし だむ ら ） は 、 かつて 島根県 飯石郡 に あっ た 村 で ある 。	
+-1	アラビア語 バーレーン 方言 は 、 アラビア語 の 口語 （ アーンミーヤ ） の ひとつ で 、 半島 方言 に 分類 さ れる 言語 。	アラビア語 ハドラマウト 方言 は 、 アラビア語 の 口語 （ アーンミーヤ ） の ひとつ で 、 イエメン 方言 に 分類 さ れる 言語 。	
+-1	フィンランド の ラテン語 名 に 因ん で 名付け られ た 。	ポーランド の ラテン語 名 に 因ん で 名付け られ た 。	
+-1	以下 に グランドラピッズ 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	以下 に アレンタウン 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	
+-1	2010年 国勢調査 に 拠れ ば 、 バーモント州 の 人種 による 人口 構成 は 次 の よう に なっ て いる 。	2010年 国勢調査 に 拠れ ば 、 ニュージャージー州 の 人種 による 人口 構成 は 次 の よう に なっ て いる 。	
+-1	これ により 国家地方警察 と 自治体警察 が 廃止 さ れ 、 新た に 都道府県 警察 として 富山県 警察本部 が 発足 。	これ により 国家地方警察 と 自治体警察 が 廃止 さ れ 、 新た に 都道府県 警察 として 奈良県 警察本部 が 発足 。	
+-1	なお 日川高校 時代 、 高校 日本代表 に 選ば れ 、 第 32回 高校 東西対抗 試合 の 参加メンバー に 選出 さ れ た 。	なお 東福岡高校 時代 、 高校 日本代表 に 選ば れ 、 第 32回 高校 東西対抗 試合 の 参加メンバー に 選出 さ れ た 。	
+-1	鳥原 村 は 、 合併 し た 村名 を 継承 する 以下 の 大字 で 構成 さ れる 。	小梅 村 は 、 合併 し た 村名 を 継承 する 以下 の 大字 で 構成 さ れる 。	
+-1	宮崎県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	青森県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	
+-1	1942年 4月 、 第 21回 衆議院議員総選挙 で 翼賛政治体制協議会 の 推薦 を 受け 福岡県第二区 から 出馬 し て 当選 。	1942年 4月 、 第 21回 衆議院議員総選挙 で 翼賛政治体制協議会 の 推薦 を 受け 新潟県第三区 から 出馬 し て 当選 。	
+-1	アボカド や トウモロコシ 、 マンゴー など の 農作物 を 食害 する 害鳥 と みなさ れる こと も ある 。	トウモロコシ や バナナ 、 マンゴー など の 農作物 を 食害 する 害鳥 と みなさ れる こと も ある 。	
+-1	富山 方面 に 向かっ て 左側に 単式 ホーム 1 面 1 線 を 有する 地上 駅 （ 停留所 ） 。	米子 方面 に 向かっ て 左側に 単式 ホーム 1 面 1 線 を 有する 地上 駅 （ 停留所 ） 。	
+-1	シンジ は 、 任天堂 の ゲームソフト 『 ポケットモンスター 』 シリーズ を 原作 と する アニメ 『 ポケットモンスター 』 シリーズ に 登場 する 架空 の 人物 。	ハルカ は 、 任天堂 の ゲームソフト 『 ポケットモンスター 』 を 原作 と する アニメ 『 ポケットモンスター シリーズ 』 に 登場 する 架空 の 人物 。	
+-1	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 浜松駅 が 当 駅 を 管理 し て いる 。	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 中津川駅 が 当 駅 を 管理 し て いる 。	
+-1	1325 形 は 、 かつて 日本国有鉄道 の 前身 で ある 鉄道省 に 在籍 し た タンク 式 蒸気機関車 で ある 。	1690 形 は 、 かつて 日本国有鉄道 の 前身 で ある 鉄道省 に 在籍 し た タンク 式 蒸気機関車 で ある 。	
+-1	本 項 は 、 青森県 師範学校 ・ 青森県 女子 師範学校 など の 前身 諸 校 を 含め て 記述 する 。	本 項 は 、 福島県 師範学校 ・ 福島県 女子 師範学校 など の 前身 諸 校 を 含め て 記述 する 。	
+-1	以下 に イーストン 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	以下 に ラシーン 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	
+-1	ウォーズマン は 、 ゆでたまご の 漫画 『 キン肉マン 』 および その 続編 『 キン肉マンII世 』 に 登場 する 架空 の 人物 。	サンシャイン は 、 ゆでたまご の 漫画 『 キン肉マン 』 および その 続編 『 キン肉マンII世 』 に 登場 する 架空 の 人物 。	
+-1	戸塚区 内 で は 、 一部 の 区域 で 住居表示に関する法律 に 基づく 住居表示 が 実施 さ れ て いる 。	中央区 内 で は 、 一部 の 区域 で 住居表示に関する法律 に 基づく 住居表示 が 実施 さ れ て いる 。	
+-1	その後 、 1960年代 に 会津若松市 の 住居表示 が 実施 さ れ 、 現在 の 本町 周辺 も 対象 と なる 。	その後 、 1960年代 に 会津若松市 の 住居表示 が 実施 さ れ 、 現在 の 城南町 周辺 も 対象 と なる 。	
+-1	米 タイム誌 は 、 本作 を 「 2015年 の 映画 トップ 10 」 の 第 8位 に 挙げ て いる 。	米 タイム誌 は 、 本作 を 「 2015年 の 映画 トップ 10 」 の 第 4位 に 挙げ て いる 。	
+-1	三重県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	佐賀県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	
+-1	図書館 サービス の うち 、 蔵書 資料 の 貸出 や 予約 など に は 予約 者 カード が 必要 と なる 。	図書館 サービス の うち 、 蔵書 資料 の 貸出 や 予約 など に は 利用 カード が 必要 と なる 。	
+-1	駅舎 は 構内 の 北西 側 に 位置 し 、 ホーム 北側 と を 結ぶ 構内 踏切 で 連絡 し た 。	駅舎 は 構内 の 北西 側 に 位置 し 、 ホーム 西側 と を 結ぶ 構内 踏切 で 連絡 し た 。	
+-1	この 表 は 、 きりん 座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	この 表 は 、 がか 座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	
+-1	北極点 から 北極海 、 ヨーロッパ 、 アジア 、 アフリカ 、 インド洋 、 南極海 、 南極 大陸 を 通過 し て 南極点 まで を 結ぶ 。	北極点 から 北極海 、 ヨーロッパ 、 地中海 、 アフリカ 、 インド洋 、 南極海 、 南極 大陸 を 通過 し て 南極点 まで を 結ぶ 。	
+-1	この 表 は 、 ポンプ 座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	この 表 は 、 かじき 座 の 恒星 を 明る さ の 順 に 並べ た もの で ある 。	
+-1	腹 甲 の 色彩 は 黄色 や 淡 黄 褐色 で 、 甲板 ごと に 暗色 斑 が 入る 。	腹 甲 の 色彩 は 淡 黄色 や 黄色 、 黄 褐色 で 、 甲板 ごと に 黒色 斑 が 入る 。	
+-1	「 石川県 統計 書 」 に よる と 、 1日 の 平均 乗車 人員 は 以下 の 通り で ある 。	「 岐阜県 統計 書 」 に よる と 、 1日 平均 の 乗車 人員 は 以下 の 通り で ある 。	
+-1	その後 、 優勝 し た アメリカ は メダル を 剥奪 さ れ 、 バハマ は 繰り 上がり で 金メダル を 獲得 し た 。	その後 、 優勝 し た アメリカ は メダル を 剥奪 さ れ 、 バハマ は 繰り 上がり で 銅メダル を 獲得 し た 。	
+-1	開発 による 生息地 の 破壊 、 食用 の 狩猟 など により 生息 数 が 減少 し て いる 種 も いる 。	森林伐採 による 生息地 の 破壊 、 食用 の 狩猟 など により 生息 数 が 減少 し て いる 種 も いる 。	
+-1	現在 の 日本 の 学校教育 において 必修 の 科目 と さ れ て いる もの に 、 以下 の もの が ある 。	現在 の 香港 の 学校教育 において 必修 の 科目 と さ れ て いる もの に 、 以下 が ある 。	
+-1	出店 し て いる テナント 全店 の 一覧 ・ 詳細 情報 は 公式サイト 「 ショップ ガイド 」 を 参照 。	出店 し て いる テナント 全店 の 一覧 ・ 詳細 情報 は 公式サイト 「 フロア ガイド 」 を 参照 。	
+-1	開発 や 採掘 による 生息地 の 破壊 、 狩猟 など により 生息 数 は 減少 し て いる 。	開発 や 放牧 による 生息地 の 破壊 、 狩猟 など により 生息 数 は 減少 し て いる 。	
+-1	精密機器 製造 業者 の 親睦 など を 目的 と する 団体 、 技術 向上 など を 行う 団体 など 、 多岐 に わたる 。	伝統工芸品 製造 業者 の 親睦 など を 目的 と する 団体 、 技術 向上 など を 行う 団体 など 、 多岐 に わたる 。	
+-1	弾 種 識別 および 防湿 の ため 、 雷管 の 周り に 緑色 の セラック ワニス を 塗布 し た 。	弾 種 識別 および 防湿 の ため 、 雷管 の 周り に 赤色 の セラック ワニス を 塗布 し た 。	
+-1	ステージ 内 の 仕掛け として 用意 さ れ た もの で 、 ほか の 種類 の タル より 一 回り 大きい 。	コース 内 の 仕掛け として 用意 さ れ た もの で 、 ほか の 種類 の タル より 一 回り 大きい 。	
+-1	東西線 の 駅 は 駅 ごと に ステーション カラー が 制定 さ れ て おり 、 当 駅 の ステーション カラー は 牡丹色 で ある 。	東西線 の 駅 は 駅 ごと に ステーション カラー が 制定 さ れ て おり 、 当 駅 の ステーション カラー は 藤色 で ある 。	
+-1	道議会議員 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	山梨県知事 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	
+-1	CGエンジニア検定 は 、 CG検定 の 3つ の 構成 （ 表現 系 ・ 技術 系 ・ リテラシー 系 ） の うち で 技術 系 に 属する 。	CGクリエイター検定 は 、 CG検定 の 3つ の 構成 （ 表現 系 ・ 技術 系 ・ リテラシー 系 ） の うち で 表現 系 に 属する 。	
+-1	ドイツ語 版 の 「 良質 な 記事 」 は 膨大 な ため サブ ページ 化 し て い ます 。	フランス語 版 の 「 良質 な 記事 」 は 膨大 な ため サブ ページ 化 し て い ます 。	
+-1	後部 縁 甲板 の 外縁 は やや 鋸 状 に 尖る が 、 老齢 個体 で は 不明瞭 に なる 。	後部 縁 甲板 の 外縁 は やや 鋸 状 に 尖る が 、 大型 個体 で は 不明瞭 に なる 。	
+-1	また 、 静岡 県立大学 の 大学院 において は 、 国際関係学研究科 の 准教授 も 兼務 し 、 国際関係学 専攻 の 講義 を 担当 し た 。	また 、 静岡 県立大学 の 大学院 において は 、 国際関係学研究科 の 教授 も 兼務 し 、 国際関係学 専攻 の 講義 を 担当 し た 。	
+-1	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 岐阜駅 が 当 駅 を 管理 し て いる 。	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 静岡駅 が 当 駅 を 管理 し て いる 。	
+-1	以下 に フローレンス 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	以下 に ハンプトン 市 における 1850年 から 2010年 まで の 人口 推移 を 表 および グラフ で 示す 。	
+-1	2 番 のり ば に 停車 する 列車 は 、 ドア 横 の 開閉 ボタン で 開け 閉め する 。	平日 に 2 番 のり ば に 停車 する 列車 は ドア 横 の 開閉 ボタン で 開け 閉め する 。	
+-1	カルガリーオリンピック における フィギュアスケート 競技 は 、 1988年 2月14日 から 2月27日 まで の 競技 日程 で 実施 さ れ た 。	カルガリーオリンピック における スピードスケート 競技 は 、 1988年 2月14日 から 2月27日 まで の 競技 日程 で 実施 さ れ た 。	
+-1	なお 、 日本語 の 「 論理学 」 という 語 は 西周 による もの と さ れ て いる 。	なお 、 日本語 の 「 消費 」 という 語 は 西周 による もの と さ れ て いる 。	
+-1	開発 による 生息地 の 破壊 、 剥製 目的 の 乱獲 など により 生息 数 は 減少 し て いる 。	開発 による 生息地 の 破壊 、 羽毛 目的 の 乱獲 など により 生息 数 は 減少 し て いる 。	
+-1	2015年 現在 まで に 、 以下 の 専門 局 ・ 動画配信 サービス にて 放送 ・ 配信 が 行わ れ た 。	2015年 現在 まで に 、 以下 の 専門 局 ・ 動画配信 サービス にて 再放送 ・ 配信 が 行わ れ た 。	
+-1	大統領 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	知事 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	
+-1	さらに 、 総監 部 は 陸軍 総監 および 連邦 国防大臣 が 執務 不能 の 際 に これ を 支援 する 。	さらに 、 総監 部 は 空軍 総監 および 連邦 国防大臣 が 執務 不能 の 際 に これ を 支援 する 。	
+-1	証明 を 含める こと の 問題 は 、 それ が 記事 の 説明 の 流れ を ブロック し て しまう こと です 。	病態 説明 を 含める こと の 問題 は 、 それ が 記事 の 流れ を ブロック し て しまう こと です 。	
+-1	スーダン 国内 に は 、 ユネスコ の 世界遺産 リスト に 登録 さ れ た 文化遺産 が 2 件 存在 する 。	朝鮮民主主義人民共和国 国内 に は 、 ユネスコ の 世界遺産 リスト に 登録 さ れ た 文化遺産 が 2 件 存在 する 。	
+-1	現在 使用 さ れ て いる 水温計 は 、 大きく 分け て 機械 式 と 電気 式 に 分類 さ れる 。	現在 使用 さ れ て いる 油温計 は 、 大きく 分け て 機械 式 と 電気 式 に 分類 さ れる 。	
+-1	この 文書 は 、 ウクライナ語 由来 の 外来語 について 、 表記 を 決める ため の 参考 資料 を 提示 する もの です 。	この 文書 は 、 ウズベク語 由来 の 外来語 について 、 表記 を 決める ため の 参考 資料 を 提示 する もの です 。	
+-1	ウルグアイ 国内 に は 、 ユネスコ の 世界遺産 リスト に 登録 さ れ た 文化遺産 が 2 件 存在 する 。	アゼルバイジャン 国内 に は 、 ユネスコ の 世界遺産 リスト に 登録 さ れ た 文化遺産 が 2 件 存在 する 。	
+-1	多治見市 の 地名 で は 、 同 市内 に 存在 する 町名 ・ 字名 を 一覧 に し て 記す 。	中津川市 の 地名 で は 、 同 市内 に 存在 する 町名 ・ 字名 を 一覧 に し て 記す 。	
+-1	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 中津川駅 が 当 駅 を 管理 し て いる 。	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 清水駅 が 当 駅 を 管理 し て いる 。	
+-1	以下 に マディソン 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	以下 に フローレンス 市 における 1850年 から 2010年 まで の 人口 推移 を グラフ および 表 で 示す 。	
+-1	イネス の 名 は 、 その 功績 を 称え て 、 月 の クレーター や 小惑星 に 付け られ て いる 。	ルター の 名 は 、 その 功績 を 称え て 、 小惑星 や 月 の クレーター に 付け られ て いる 。	
+-1	専門 教科 として の 「 美術 」 は 、 主 に 「 美術 に関する 学科 」 において 履修 さ れ て いる 。	専門 教科 として の 「 体育 」 は 、 主 に 「 体育 に関する 学科 」 において 履修 さ れ て いる 。	
+-1	生 キクラゲ は 、 乾燥 品 を 水 戻し し た もの より 、 より 弾力 性 と 歯ごたえ に 富む 。	生 の もの は 、 乾燥 品 を 水 戻し し た もの より 、 より 弾力 性 と 歯ごたえ に 富む 。	
+-1	当初 は 静岡県 の 一部 、 後 に 同県 全域 の 徴兵 ・ 召集 等 兵事 事務 を 取り扱っ た 。	当初 は 岐阜県 の 一部 、 後 に 同県 全域 の 徴兵 ・ 召集 等 兵事 事務 を 取り扱っ た 。	
+-1	現在 使用 さ れ て いる 負圧計 は 、 大きく 分け て 機械 式 と 電気 式 に 分類 さ れる 。	現在 使用 さ れ て いる 水温計 は 、 大きく 分け て 機械 式 と 電気 式 に 分類 さ れる 。	
+-1	12月 1日 、 第二復員省 の 開 庁 に 伴い 、 横須賀 地方 復員 局所 管 の 特別 輸送艦 に 定め られる 。	12月 1日 、 第二復員省 の 開 庁 に 伴い 、 呉 地方 復員 局所 管 の 特別 輸送艦 に 定め られる 。	
+-1	2009年 （ 平成21年 ） 　 携帯局 は 全て 無線 業務 日誌 の 備付け が 不要 と さ れ た 。	2009年 （ 平成21年 ） 　 陸上移動中継局 は 全て 無線 業務 日誌 の 備付け が 不要 と さ れ た 。	
+-1	主 に 、 地域 の 結びつき の 強い 中学校 と その 地域 の 小学校 が 連携 し て 取り組む 事例 が 多い 。	主 に 、 地域 と 結びつき の 強い 高等学校 と その 地域 の 中学校 が 連携 し て 取り組む 事例 が 多い 。	
+-1	佐渡山 村 は 、 合併 し た 村名 を 継承 する 以下 の 大字 で 構成 さ れる 。	矢代田 村 は 、 合併 し た 村名 を 継承 する 以下 の 大字 で 構成 さ れる 。	
+-1	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 尾張一宮駅 が 当 駅 を 管理 し て いる 。	東海交通事業 の 職員 が 業務 を 担当 する 業務委託駅 で 、 岡崎駅 が 当 駅 を 管理 し て いる 。	
+-1	三重県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	埼玉県 内 の 教育 に関する 事務 を 所掌 する 行政委員会 で あり 、 6人 の 委員 で 構成 さ れる 。	
+-1	この 場合 、 下位 事象 A 、 B 、 C の 確率 を 加算 し て 上位 事象 X の 発生 確率 と する 。	この 場合 、 下位 事象 A 、 B 、 C の 確率 を 積算 し て 上位 事象 X の 発生 確率 と する 。	
+-1	府知事 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	北海道知事 の 任期 4年 が 満了 し た こと に 伴っ て 実施 さ れ た 選挙 で ある 。	
