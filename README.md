@@ -1,22 +1,31 @@
 # Tokyo Metropolitan University Paraphrase Corpus (TMUP) #
 
-**TMUP** is a Japanese sentential paraphrase corpus. It consists of 655 sentence pairs in total.
+**TMUP** is an evaluation corpus for Japanese paraphrase identification. It consists of 655 sentence pairs in total.
 * 363 paraphrase sentence pairs
 * 292 non-paraphrase sentence pairs
 
+### Candidate Acquisition Method ###
+
+To acquire both *paraphrase* and *non-paraphrase* instances, we
+* generated sentence pairs using Google PBMT and NMT to acquire paraphrases
+* extracted sentence pairs from Japanese Wikipedia to acquire non-paraphrases
+
+To acquire both *trivial* and *non-trivial* instances, we
+* calculated word overlap rate (Jaccard score) of each sentence pair and uniformly sampled candidates
+
+### Annotation ###
+
+Two annotators judged whether the candidates are paraphrases.
+
+\*For more details, please refer to the [paper](add URL here).
+
 ## Data Format ##
 
-*label*	*sentence_A_ja*	*sentence_B_ja*	*source_sentence_en*
+label &lt;\t&gt; sentence_A_ja &lt;\t&gt; sentence_B_ja &lt;\t&gt; source_sentence_en *(if applicable)*
 
-## Labels and Statistics ##
-
-| Label              | # Translated | # Extracted |
-|:-------------------|-------------:|------------:|
-|  1 (paraphrase)    |          363 |           0 |
-|  0 (non-paraphrase)|          102 |           0 |
-| -1 (non-paraphrase)|            0 |         190 |
-|Total               |          465 |         190 |
-
+### Labels ###
+* 1: Paraphrase
+* 0: Non-paraphrase
 
 ## Citing ##
 
