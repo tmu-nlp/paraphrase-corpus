@@ -47,6 +47,13 @@ In *Proceedings of ACL 2017 Student Research Workshop*, Vancouver, Canada. July 
         url       = {http://www.aclweb.org/anthology/}
     }
 
+## License ##
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+
+Copyright (c) 2017 TMU-NLP
+
 ## Contact ##
 
 For inquiry and feedback please contact the authors below:
