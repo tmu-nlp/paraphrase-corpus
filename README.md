@@ -17,7 +17,7 @@ To acquire both *trivial* and *non-trivial* instances, we
 
 Two annotators judged whether the candidates are paraphrases.
 
-\*For more details, please refer to the [paper](add URL here).
+\*For more details, please refer to the paper.
 
 ## Data Format ##
 
