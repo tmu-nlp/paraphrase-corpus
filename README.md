@@ -21,7 +21,7 @@ Two annotators judged whether the candidates are paraphrases.
 
 ## Data Format ##
 
-label &lt;\t&gt; sentence_A_ja &lt;\t&gt; sentence_B_ja &lt;\t&gt; source_sentence_en *(if applicable)*
+label &lt;TAB&gt; sentence_A_ja &lt;TAB&gt; sentence_B_ja &lt;TAB&gt; source_sentence_en *(if applicable)*
 
 ### Labels ###
 * 1: Paraphrase
